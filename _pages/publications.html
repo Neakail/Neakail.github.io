@@ -17,8 +17,6 @@ author_profile: true
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.year != year[0] %}
-       <h2> post.year </h2>
-       <h2> year[0] </h2>
         {% continue %}
       {% endif %}
       {% unless title_shown %}
@@ -29,7 +27,6 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-<h2> '11111'</h2><hr />
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
