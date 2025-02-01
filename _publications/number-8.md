@@ -1,8 +1,7 @@
-
 ---
 title: " Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
 permalink: "/publication/number-8"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. (ÖÐ¿ÆÔºSCI 3Çø, CCF CÀàÆÚ¿¯)"
+citation: "<b><i>Nankai Lin</b></i>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. (ä¸­ç§‘é™¢SCI 3åŒº, CCF Cç±»æœŸåˆŠ)"
 ---
 

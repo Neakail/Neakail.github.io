@@ -1,8 +1,7 @@
-
 ---
 title: " Research on Pseudo-label Technology for Multi-label News Classification"
 permalink: "/publication/number-44"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. (CCF CÀà»áÒé, Í¨Ñ¶×÷Õß)"
+citation: "Lianxi, Wang, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. (CCF Cç±»ä¼šè®®, é€šè®¯ä½œè€…)"
 ---
 

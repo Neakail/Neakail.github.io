@@ -1,8 +1,7 @@
-
 ---
 title: " A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
 permalink: "/publication/number-4"
 year: "2025"
-citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b><i>Nankai Lin</b></i>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. (ÖÐ¿ÆÔºSCI 4Çø)"
+citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b><i>Nankai Lin</b></i>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. (ä¸­ç§‘é™¢SCI 4åŒº)"
 ---
 

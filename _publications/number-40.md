@@ -1,8 +1,7 @@
-
 ---
 title: " A Framework for Indonesian Grammar Error Correction"
 permalink: "/publication/number-40"
 year: "2021"
-citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. (ÖÐ¿ÆÔºSCI 4Çø, CCF CÀàÆÚ¿¯)"
+citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. (ä¸­ç§‘é™¢SCI 4åŒº, CCF Cç±»æœŸåˆŠ)"
 ---
 

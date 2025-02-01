@@ -1,8 +1,7 @@
-
 ---
 title: " CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
 permalink: "/publication/number-26"
 year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (ÖÐ¿ÆÔºSCI 2Çø, CCF BÀàÆÚ¿¯)"
+citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (ä¸­ç§‘é™¢SCI 2åŒº, CCF Bç±»æœŸåˆŠ)"
 ---
 

@@ -1,8 +1,7 @@
-
 ---
 title: " ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
 permalink: "/publication/number-22"
 year: "2024"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. (CCF BÀà»áÒé)"
+citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. (CCF Bç±»ä¼šè®®)"
 ---
 

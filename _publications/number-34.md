@@ -1,8 +1,7 @@
-
 ---
 title: " Cross-Lingual Named Entity Recognition for Heterogenous Languages"
 permalink: "/publication/number-34"
 year: "2022"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. (ÖÐ¿ÆÔºSCI 2Çø, CCF BÀàÆÚ¿¯)"
+citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. (ä¸­ç§‘é™¢SCI 2åŒº, CCF Bç±»æœŸåˆŠ)"
 ---
 

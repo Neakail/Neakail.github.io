@@ -1,8 +1,7 @@
-
 ---
 title: " Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
 permalink: "/publication/number-11"
 year: "2025"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF BÀà»áÒé, Í¨Ñ¶×÷Õß)"
+citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF Bç±»ä¼šè®®, é€šè®¯ä½œè€…)"
 ---
 

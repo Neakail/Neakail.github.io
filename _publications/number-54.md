@@ -1,4 +1,3 @@
-
 ---
 title: " Learning Indonesian Frequently Used Vocabulary from Large-scale News"
 permalink: "/publication/number-54"

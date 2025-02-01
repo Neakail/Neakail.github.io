@@ -1,8 +1,7 @@
-
 ---
 title: " Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publication/number-41"
 year: "2021"
-citation: "Shengyi Jiang, Sihui Fu, <b><i>Nankai Lin</b></i>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. (ÖÐ¿ÆÔºSCI 1Çø, Í¨Ñ¶×÷Õß)"
+citation: "Shengyi Jiang, Sihui Fu, <b><i>Nankai Lin</b></i>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. (ä¸­ç§‘é™¢SCI 1åŒº, é€šè®¯ä½œè€…)"
 ---
 

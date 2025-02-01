@@ -1,8 +1,7 @@
-
 ---
 title: " Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publication/number-16"
 year: "2024"
-citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (ÖÐ¿ÆÔºSCI 1Çø, CCF CÀàÆÚ¿¯)"
+citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (ä¸­ç§‘é™¢SCI 1åŒº, CCF Cç±»æœŸåˆŠ)"
 ---
 

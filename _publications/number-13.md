@@ -1,8 +1,7 @@
-
 ---
 title: " Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
 permalink: "/publication/number-13"
 year: "2024"
-citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (ÖÐ¿ÆÔºSCI 1Çø, CCF CÀàÆÚ¿¯)"
+citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (ä¸­ç§‘é™¢SCI 1åŒº, CCF Cç±»æœŸåˆŠ)"
 ---
 

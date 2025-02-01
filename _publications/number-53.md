@@ -1,4 +1,3 @@
-
 ---
 title: " Exploring Lexical Differences between Indonesian and Malay"
 permalink: "/publication/number-53"

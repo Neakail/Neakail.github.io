@@ -1,8 +1,7 @@
-
 ---
 title: " GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
 permalink: "/publication/number-24"
 year: "2024"
-citation: "Shiqiao Huang, Weiwen Zhang, <b><i>Nankai Lin</b></i>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. (CCF CÀà»áÒé, Í¨Ñ¶×÷Õß)"
+citation: "Shiqiao Huang, Weiwen Zhang, <b><i>Nankai Lin</b></i>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. (CCF Cç±»ä¼šè®®, é€šè®¯ä½œè€…)"
 ---
 

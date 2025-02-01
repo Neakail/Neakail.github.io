@@ -1,8 +1,7 @@
-
 ---
 title: " A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
 permalink: "/publication/number-35"
 year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF CÀà»áÒé, Í¨Ñ¶×÷Õß)"
+citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF Cç±»ä¼šè®®, é€šè®¯ä½œè€…)"
 ---
 

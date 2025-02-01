@@ -1,8 +1,7 @@
-
 ---
 title: " MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
 permalink: "/publication/number-9"
 year: "2025"
-citation: "Peijian Zeng, <b><i>Nankai Lin</b></i>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. (ÖÐ¿ÆÔºSCI 4Çø)"
+citation: "Peijian Zeng, <b><i>Nankai Lin</b></i>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. (ä¸­ç§‘é™¢SCI 4åŒº)"
 ---
 

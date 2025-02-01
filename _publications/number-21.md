@@ -1,8 +1,7 @@
-
 ---
-title: " CCL24-EvalÈÎÎñ3ÏµÍ³±¨¸æ£º»ùÓÚÉÏÏÂÎÄÑ§Ï°µÄ¿Õ¼äÓïÒåÀí½â"
+title: " CCL24-Evalä»»åŠ¡3ç³»ç»ŸæŠ¥å‘Šï¼šåŸºäºä¸Šä¸‹æ–‡å­¦ä¹ çš„ç©ºé—´è¯­ä¹‰ç†è§£"
 permalink: "/publication/number-21"
 year: "2024"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-EvalÈÎÎñ3ÏµÍ³±¨¸æ£º»ùÓÚÉÏÏÂÎÄÑ§Ï°µÄ¿Õ¼äÓïÒåÀí½â. China National Conference on Computational Linguistics. 2024. (Í¨Ñ¶×÷Õß)"
+citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Evalä»»åŠ¡3ç³»ç»ŸæŠ¥å‘Šï¼šåŸºäºä¸Šä¸‹æ–‡å­¦ä¹ çš„ç©ºé—´è¯­ä¹‰ç†è§£. China National Conference on Computational Linguistics. 2024. (é€šè®¯ä½œè€…)"
 ---
 

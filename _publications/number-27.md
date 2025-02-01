@@ -1,8 +1,7 @@
-
 ---
 title: " Self-training with Double Judgers for Low-Resource Named Entity Recognition"
 permalink: "/publication/number-27"
 year: "2023"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (ÖÐ¿ÆÔºSCI 2Çø, CCF BÀàÆÚ¿¯)"
+citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (ä¸­ç§‘é™¢SCI 2åŒº, CCF Bç±»æœŸåˆŠ)"
 ---
 

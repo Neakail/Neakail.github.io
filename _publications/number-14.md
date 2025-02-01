@@ -1,8 +1,7 @@
-
 ---
 title: " Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
 permalink: "/publication/number-14"
 year: "2024"
-citation: "<b><i>Nankai Lin</b></i>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. (ÖÐ¿ÆÔºSCI 1Çø, CCF CÀàÆÚ¿¯)"
+citation: "<b><i>Nankai Lin</b></i>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. (ä¸­ç§‘é™¢SCI 1åŒº, CCF Cç±»æœŸåˆŠ)"
 ---
 

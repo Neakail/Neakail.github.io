@@ -1,8 +1,7 @@
-
 ---
 title: " Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation"
 permalink: "/publication/number-3"
 year: "2025"
-citation: "Zhijin Chen, <b><i>Nankai Lin</b></i>, Aimin Yang, Dong Zhou. Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. (ÖÐ¿ÆÔºSCI 4Çø, CCF BÀàÆÚ¿¯)"
+citation: "Zhijin Chen, <b><i>Nankai Lin</b></i>, Aimin Yang, Dong Zhou. Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. (ä¸­ç§‘é™¢SCI 4åŒº, CCF Bç±»æœŸåˆŠ)"
 ---
 
