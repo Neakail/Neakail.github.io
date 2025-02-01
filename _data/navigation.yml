@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "专利"
-    url: /talks/    
+    url: /patents/    
 
   - title: "项目"
-    url: /teaching/    
+    url: /projects/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
