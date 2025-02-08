@@ -1,7 +1,7 @@
 ---
-title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publication/number-20"
 year: "2024"
-citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b><i>Nankai Lin</b></i>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. (CCF C类会议, 通讯作者)"
+citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

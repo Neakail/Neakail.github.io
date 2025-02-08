@@ -1,7 +1,7 @@
 ---
-title: "Learning Indonesian Frequently Used Vocabulary from Large-scale News"
+title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
 permalink: "/publication/number-54"
-year: "2018"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Shengyi Jiang, Chen Chen, Lixian Xiao, Gangqin Zhu. Learning Indonesian Frequently Used Vocabulary from Large-scale News. International Conference on Asian Language Processing. 2018."
+year: "2019"
+citation: "Yusha Zhang, <b><i>Nankai Lin</b></i>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. (通讯作者)"
 ---
 

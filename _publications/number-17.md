@@ -1,7 +1,7 @@
 ---
-title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
+title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
 permalink: "/publication/number-17"
 year: "2024"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. (CCF B类会议, Findings)"
+citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

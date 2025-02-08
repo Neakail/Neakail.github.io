@@ -1,7 +1,7 @@
 ---
-title: "Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags"
+title: "汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报"
 permalink: "/publication/number-56"
-year: "2025"
-citation: "Meiyu Zeng, Xingming Liao, Yongmei Zhou, Wentao Huang, <b><i>Nankai Lin</b></i>, Aimin Yang. Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+year: "2019"
+citation: "郑铿涛, <b><i>林楠铠</b></i>, 付颖雯, 蒋盛益. 汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报. 2019. (北大核心)"
 ---
 

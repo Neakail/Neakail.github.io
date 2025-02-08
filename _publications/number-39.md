@@ -1,7 +1,7 @@
 ---
-title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
+title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
 permalink: "/publication/number-39"
-year: "2021"
-citation: "Yingwen Fu, <b><i>Nankai Lin</b></i>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. (中科院SCI 4区)"
+year: "2022"
+citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
 ---
 

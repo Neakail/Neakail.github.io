@@ -1,7 +1,7 @@
 ---
-title: "Research on Pseudo-label Technology for Multi-label News Classification"
+title: "A Framework for Indonesian Grammar Error Correction"
 permalink: "/publication/number-44"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. (CCF C类会议, 通讯作者)"
+citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. (中科院SCI 4区, CCF C类期刊)"
 ---
 

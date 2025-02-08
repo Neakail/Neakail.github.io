@@ -1,7 +1,7 @@
 ---
-title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
+title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
 permalink: "/publication/number-15"
-year: "2024"
-citation: "Shun Li, Peijian Zeng, <b><i>Nankai Lin</b></i>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. (中科院SCI 3区)"
+year: "2025"
+citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF B类会议, 通讯作者)"
 ---
 

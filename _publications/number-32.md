@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+title: "印地语自然语言处理研究进展"
 permalink: "/publication/number-32"
-year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. (SSCI 3区)"
+year: "2023"
+citation: "王连喜, <b><i>林楠铠</b></i>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. (CCF B类期刊)"
 ---
 

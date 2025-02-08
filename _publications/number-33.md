@@ -1,7 +1,7 @@
 ---
-title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
+title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
 permalink: "/publication/number-33"
-year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. (中科院SCI 1区, CCF B类期刊)"
+year: "2023"
+citation: "Haoyuan Bu, <b><i>Nankai Lin</b></i>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. (CCF C类会议, 通讯作者))"
 ---
 

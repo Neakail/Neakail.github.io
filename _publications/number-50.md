@@ -1,7 +1,7 @@
 ---
-title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
+title: "Pre-trained Language Models for Tagalog with Multi-source data"
 permalink: "/publication/number-50"
-year: "2019"
-citation: "Yusha Zhang, <b><i>Nankai Lin</b></i>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. (通讯作者)"
+year: "2021"
+citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. (CCF C类会议, 通讯作者)"
 ---
 

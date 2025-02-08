@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Khmer Language"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publication/number-41"
-year: "2021"
-citation: "Shengyi Jiang, Sihui Fu, <b><i>Nankai Lin</b></i>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. (中科院SCI 1区, 通讯作者)"
+year: "2022"
+citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

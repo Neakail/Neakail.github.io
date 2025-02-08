@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
 permalink: "/publication/number-42"
 year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b><i>Nankai Lin</b></i>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. (CCF C类会议, 通讯作者)"
+citation: "Kengtao Zheng, <b><i>Nankai Lin</b></i>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. (中科院SCI 2区, CCF B类期刊)"
 ---
 

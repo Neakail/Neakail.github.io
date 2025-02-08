@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
 permalink: "/publication/number-55"
-year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b><i>Nankai Lin</b></i>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+year: "2019"
+citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
 ---
 

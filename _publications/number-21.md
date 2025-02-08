@@ -1,7 +1,7 @@
 ---
-title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
+title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
 permalink: "/publication/number-21"
 year: "2024"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. (通讯作者)"
+citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. (CCF B类会议, Findings)"
 ---
 

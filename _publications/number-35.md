@@ -1,7 +1,7 @@
 ---
-title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
+title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
 permalink: "/publication/number-35"
-year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
+year: "2023"
+citation: "<b><i>Nankai Lin</b></i>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. (CCF A类会议, Findings)"
 ---
 
