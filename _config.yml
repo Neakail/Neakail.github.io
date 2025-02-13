@@ -100,7 +100,19 @@ publication_year:
       title: '2019'
   '2018':
       title: '2018'
-    
+
+  project_year:
+  '2024':
+      title: '2024'
+  '2022':
+      title: '2022'
+  '2020':
+      title: '2020'
+  '2019':
+      title: '2019'
+  '2017':
+      title: '2017'
+      
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
