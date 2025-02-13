@@ -7,6 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+{% if site.project_year %}
+  {% for year in site.project_year  %}
+    {% assign title_shown = false %}
+    {% for post in site.projects %}
+      {% if post.year != year[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ year[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
