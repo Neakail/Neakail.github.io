@@ -1,6 +1,6 @@
 ---
 title: "突发公共卫生事件舆情中网民负面情绪检测及引导研究"
-permalink: "/project/number-05"
+permalink: "/projects/number-05"
 year: "2022"
 citation: "国家社会科学基金一般项目“突发公共卫生事件舆情中网民负面情绪检测及引导研究” (参与, 22BTQ045). 2022."
 ---
