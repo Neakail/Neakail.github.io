@@ -1,7 +1,7 @@
 ---
-title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic"
-permalink: "/publication/number-09"
+title: "Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation"
+permalink: "/publications/number-09"
 year: "2025"
-citation: "Dong Zhou, Qiang Ouyang, <b><i>Nankai Lin</b></i>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. (中科院SCI 4区, CCF C类期刊, 通讯作者)"
+citation: "Zhijin Chen, <b><i>Nankai Lin</b></i>, Aimin Yang, Dong Zhou. Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction"
-permalink: "/publication/number-05"
+title: "WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification"
+permalink: "/publications/number-05"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Ziyu Yang, Shengyi Jiang. A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction. Language Resources and Evaluation. 2025. (中科院SCI 4区)"
+citation: "Wentao Huang, Zeyong Long, Dong Zhou, Zhijin Chen, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
 ---
 

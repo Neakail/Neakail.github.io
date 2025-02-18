@@ -1,7 +1,7 @@
 ---
-title: "汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报"
-permalink: "/publication/number-56"
+title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
+permalink: "/publications/number-56"
 year: "2019"
-citation: "郑铿涛, <b><i>林楠铠</b></i>, 付颖雯, 蒋盛益. 汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报. 2019. (北大核心)"
+citation: "Yusha Zhang, <b><i>Nankai Lin</b></i>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. (通讯作者)"
 ---
 

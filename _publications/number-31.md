@@ -1,7 +1,7 @@
 ---
-title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
-permalink: "/publication/number-31"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
+permalink: "/publications/number-31"
 year: "2023"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
+citation: "<b><i>Nankai Lin</b></i>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. (中科院4区, CCF B类期刊)"
 ---
 

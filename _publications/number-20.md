@@ -1,7 +1,7 @@
 ---
-title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
-permalink: "/publication/number-20"
+title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
+permalink: "/publications/number-20"
 year: "2024"
-citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (中科院SCI 1区, CCF C类期刊)"
+citation: "<b><i>Nankai Lin</b></i>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

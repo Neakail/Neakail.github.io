@@ -1,7 +1,7 @@
 ---
-title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
-permalink: "/publication/number-38"
+title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+permalink: "/publications/number-38"
 year: "2022"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. (中科院SCI 2区, CCF B类期刊)"
+citation: "<b><i>Nankai Lin</b></i>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. (SSCI 3区)"
 ---
 

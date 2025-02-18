@@ -1,7 +1,7 @@
 ---
-title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
-permalink: "/publication/number-34"
+title: "印地语自然语言处理研究进展"
+permalink: "/publications/number-34"
 year: "2023"
-citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. (CCF C类会议, 通讯作者)"
+citation: "王连喜, <b><i>林楠铠</b></i>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. (CCF B类期刊)"
 ---
 

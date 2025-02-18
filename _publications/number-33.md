@@ -1,7 +1,7 @@
 ---
-title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
-permalink: "/publication/number-33"
+title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
+permalink: "/publications/number-33"
 year: "2023"
-citation: "Haoyuan Bu, <b><i>Nankai Lin</b></i>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. (CCF C类会议, 通讯作者))"
+citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
 ---
 

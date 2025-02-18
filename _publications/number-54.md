@@ -1,7 +1,7 @@
 ---
-title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
-permalink: "/publication/number-54"
-year: "2019"
-citation: "Yusha Zhang, <b><i>Nankai Lin</b></i>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. (通讯作者)"
+title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+permalink: "/publications/number-54"
+year: "2020"
+citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. (CCF C类会议)"
 ---
 

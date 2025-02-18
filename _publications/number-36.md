@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
-permalink: "/publication/number-36"
-year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. (SSCI 3区)"
+title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
+permalink: "/publications/number-36"
+year: "2023"
+citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. (CCF C类会议, 通讯作者)"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
-permalink: "/publication/number-26"
+title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+permalink: "/publications/number-26"
 year: "2024"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. (CCF B类会议)"
+citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b><i>Nankai Lin</b></i>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. (CCF C类会议, 通讯作者)"
 ---
 

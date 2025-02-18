@@ -1,7 +1,7 @@
 ---
-title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
-permalink: "/publication/number-27"
+title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
+permalink: "/publications/number-27"
 year: "2024"
-citation: "Weixiong Zheng, Aimin Yang, <b><i>Nankai Lin</b></i>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. (CCF C类会议, 通讯作者)"
+citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. (通讯作者)"
 ---
 

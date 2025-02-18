@@ -1,7 +1,7 @@
 ---
-title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
-permalink: "/publication/number-19"
+title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
+permalink: "/publications/number-19"
 year: "2024"
-citation: "Shun Li, Peijian Zeng, <b><i>Nankai Lin</b></i>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. (中科院SCI 3区)"
+citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

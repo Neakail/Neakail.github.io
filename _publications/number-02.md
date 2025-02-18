@@ -1,7 +1,7 @@
 ---
-title: "Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags"
-permalink: "/publication/number-02"
+title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
+permalink: "/publications/number-02"
 year: "2025"
-citation: "Meiyu Zeng, Xingming Liao, Yongmei Zhou, Wentao Huang, <b><i>Nankai Lin</b></i>, Aimin Yang. Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
 ---
 

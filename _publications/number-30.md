@@ -1,7 +1,7 @@
 ---
-title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
-permalink: "/publication/number-30"
-year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
+title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
+permalink: "/publications/number-30"
+year: "2024"
+citation: "Shiqiao Huang, Weiwen Zhang, <b><i>Nankai Lin</b></i>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. (CCF C类会议, 通讯作者)"
 ---
 

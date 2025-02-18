@@ -1,7 +1,7 @@
 ---
-title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
-permalink: "/publication/number-29"
-year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. (中科院4区, CCF B类期刊)"
+title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
+permalink: "/publications/number-29"
+year: "2024"
+citation: "Weixiong Zheng, Aimin Yang, <b><i>Nankai Lin</b></i>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. (CCF C类会议, 通讯作者)"
 ---
 

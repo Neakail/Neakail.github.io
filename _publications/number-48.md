@@ -1,7 +1,7 @@
 ---
-title: "Research on Pseudo-label Technology for Multi-label News Classification"
-permalink: "/publication/number-48"
+title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+permalink: "/publications/number-48"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. (CCF C类会议, 通讯作者)"
+citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b><i>Nankai Lin</b></i>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. (CCF C类会议, 通讯作者)"
 ---
 

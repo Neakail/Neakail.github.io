@@ -1,7 +1,7 @@
 ---
-title: "Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation"
-permalink: "/publication/number-07"
+title: "A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction"
+permalink: "/publications/number-07"
 year: "2025"
-citation: "Zhijin Chen, <b><i>Nankai Lin</b></i>, Aimin Yang, Dong Zhou. Filter enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
+citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Ziyu Yang, Shengyi Jiang. A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction. Language Resources and Evaluation. 2025. (中科院SCI 4区)"
 ---
 
