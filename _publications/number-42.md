@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
+title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
 permalink: "/publications/number-42"
 year: "2022"
-citation: "Jianying Zhu, Menglan Shen, <b><i>Nankai Lin</b></i>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. (通讯作者)"
+citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
 ---
 

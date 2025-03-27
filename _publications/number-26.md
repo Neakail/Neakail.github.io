@@ -1,7 +1,7 @@
 ---
-title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
 permalink: "/publications/number-26"
 year: "2024"
-citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b><i>Nankai Lin</b></i>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. (CCF C类会议, 通讯作者)"
+citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
 ---
 

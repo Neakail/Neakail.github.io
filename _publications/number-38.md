@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
 permalink: "/publications/number-38"
-year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. (SSCI 3区)"
+year: "2023"
+citation: "<b><i>Nankai Lin</b></i>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. (CCF A类会议, Findings)"
 ---
 

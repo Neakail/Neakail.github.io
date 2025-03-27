@@ -1,7 +1,7 @@
 ---
-title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
+title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
 permalink: "/publications/number-02"
 year: "2025"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
+citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
 ---
 

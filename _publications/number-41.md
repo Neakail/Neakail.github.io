@@ -1,7 +1,7 @@
 ---
-title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
+title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
 permalink: "/publications/number-41"
 year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
+citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. (中科院SCI 2区, CCF B类期刊)"
 ---
 

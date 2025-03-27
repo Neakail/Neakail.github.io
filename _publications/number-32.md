@@ -1,7 +1,7 @@
 ---
-title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
 permalink: "/publications/number-32"
 year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
+citation: "<b><i>Nankai Lin</b></i>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. (中科院4区, CCF B类期刊)"
 ---
 

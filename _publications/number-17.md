@@ -1,7 +1,7 @@
 ---
-title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
+title: "Curriculum Learning for a Contrastive News Recommendation Framework"
 permalink: "/publications/number-17"
 year: "2025"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF B类会议, 通讯作者)"
+citation: "Xingran Zhou, <b><i>Nankai Lin</b></i>, Weixiong Zheng, Dong Zhou, Aimin Yang. Curriculum Learning for a Contrastive News Recommendation Framework. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
 ---
 

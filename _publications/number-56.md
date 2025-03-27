@@ -1,7 +1,7 @@
 ---
-title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
+title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
 permalink: "/publications/number-56"
-year: "2019"
-citation: "Yusha Zhang, <b><i>Nankai Lin</b></i>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. (通讯作者)"
+year: "2020"
+citation: "蒋盛益, 李珊珊, 符斯慧, <b><i>林楠铠</b></i>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. (CCF B类期刊)"
 ---
 

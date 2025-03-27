@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
 permalink: "/publications/number-03"
 year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b><i>Nankai Lin</b></i>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
 ---
 

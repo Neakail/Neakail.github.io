@@ -1,7 +1,7 @@
 ---
-title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
+title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
 permalink: "/publications/number-27"
 year: "2024"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. (通讯作者)"
+citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b><i>Nankai Lin</b></i>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. (CCF C类会议, 通讯作者)"
 ---
 

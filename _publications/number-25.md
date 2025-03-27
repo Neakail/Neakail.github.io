@@ -1,7 +1,7 @@
 ---
-title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
+title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
 permalink: "/publications/number-25"
 year: "2024"
-citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
+citation: "Dong Zhou, Binli Zeng, <b><i>Nankai Lin</b></i>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
 ---
 

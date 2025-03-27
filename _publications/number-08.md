@@ -1,7 +1,7 @@
 ---
-title: "Emotion Classification of COVID-19 Chinese Microblogs Based on Contrastive Learning"
+title: "A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction"
 permalink: "/publications/number-08"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotion Classification of COVID-19 Chinese Microblogs Based on Contrastive Learning. Applied Soft Computing. 2025. (中科院SCI 1区)"
+citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Ziyu Yang, Shengyi Jiang. A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction. Language Resources and Evaluation. 2025. (中科院SCI 4区)"
 ---
 

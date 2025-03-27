@@ -1,7 +1,7 @@
 ---
-title: "印地语自然语言处理研究进展"
+title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
 permalink: "/publications/number-34"
 year: "2023"
-citation: "王连喜, <b><i>林楠铠</b></i>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. (CCF B类期刊)"
+citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
 ---
 

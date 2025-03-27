@@ -1,7 +1,7 @@
 ---
-title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic"
+title: "A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
 permalink: "/publications/number-11"
 year: "2025"
-citation: "Dong Zhou, Qiang Ouyang, <b><i>Nankai Lin</b></i>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. (中科院SCI 4区, CCF C类期刊, 通讯作者)"
+citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b><i>Nankai Lin</b></i>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. (中科院SCI 4区)"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
+title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
 permalink: "/publications/number-37"
 year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. (CCF A类会议, Findings)"
+citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. (CCF C类会议, 通讯作者)"
 ---
 

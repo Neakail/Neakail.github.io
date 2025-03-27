@@ -1,7 +1,7 @@
 ---
-title: "Research on Pseudo-label Technology for Multi-label News Classification"
+title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
 permalink: "/publications/number-50"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. (CCF C类会议, 通讯作者)"
+citation: "Shengyi Jiang, Yingwen Fu, <b><i>Nankai Lin</b></i>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. (CCF C类会议, 通讯作者)"
 ---
 

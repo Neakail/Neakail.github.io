@@ -1,7 +1,7 @@
 ---
-title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publications/number-23"
 year: "2024"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. (CCF B类会议, Findings)"
+citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

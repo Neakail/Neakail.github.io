@@ -1,7 +1,7 @@
 ---
-title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
+title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
 permalink: "/publications/number-18"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. (CCF B类会议)"
+citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF B类会议, 通讯作者)"
 ---
 

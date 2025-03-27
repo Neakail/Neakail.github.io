@@ -1,7 +1,7 @@
 ---
-title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
+title: "WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification"
 permalink: "/publications/number-06"
 year: "2025"
-citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Wentao Huang, Zeyong Long, Dong Zhou, Zhijin Chen, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
 ---
 

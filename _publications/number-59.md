@@ -1,7 +1,7 @@
 ---
-title: "Exploring Lexical Differences between Indonesian and Malay"
+title: "汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报"
 permalink: "/publications/number-59"
-year: "2018"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Gangqin Zhu, Yanni Hou, Shengyi Jiang. Exploring Lexical Differences between Indonesian and Malay. International Conference on Asian Language Processing. 2018."
+year: "2019"
+citation: "郑铿涛, <b><i>林楠铠</b></i>, 付颖雯, 蒋盛益. 汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报. 2019. (北大核心)"
 ---
 

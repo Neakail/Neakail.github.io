@@ -1,7 +1,7 @@
 ---
-title: "A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
+title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
 permalink: "/publications/number-10"
 year: "2025"
-citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b><i>Nankai Lin</b></i>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. (中科院SCI 4区)"
+citation: "Zhijin Chen, <b><i>Nankai Lin</b></i>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
 ---
 

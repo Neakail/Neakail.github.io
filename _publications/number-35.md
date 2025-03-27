@@ -1,7 +1,7 @@
 ---
-title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
+title: "印地语自然语言处理研究进展"
 permalink: "/publications/number-35"
 year: "2023"
-citation: "Haoyuan Bu, <b><i>Nankai Lin</b></i>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. (CCF C类会议, 通讯作者))"
+citation: "王连喜, <b><i>林楠铠</b></i>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. (CCF B类期刊)"
 ---
 

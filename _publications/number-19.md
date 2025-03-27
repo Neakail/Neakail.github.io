@@ -1,7 +1,7 @@
 ---
-title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
+title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
 permalink: "/publications/number-19"
-year: "2024"
-citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (中科院SCI 1区, CCF C类期刊)"
+year: "2025"
+citation: "<b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. (CCF B类会议)"
 ---
 

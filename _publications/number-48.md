@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publications/number-48"
 year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b><i>Nankai Lin</b></i>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. (CCF C类会议, 通讯作者)"
+citation: "Shengyi Jiang, Sihui Fu, <b><i>Nankai Lin</b></i>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. (中科院SCI 1区, 通讯作者)"
 ---
 

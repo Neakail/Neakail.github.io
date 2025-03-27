@@ -1,7 +1,7 @@
 ---
-title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
+title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
 permalink: "/publications/number-29"
 year: "2024"
-citation: "Weixiong Zheng, Aimin Yang, <b><i>Nankai Lin</b></i>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. (CCF C类会议, 通讯作者)"
+citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. (CCF B类会议)"
 ---
 

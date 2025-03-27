@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Indonesian Grammar Error Correction"
+title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
 permalink: "/publications/number-46"
 year: "2021"
-citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. (中科院SCI 4区, CCF C类期刊)"
+citation: "Yingwen Fu, <b><i>Nankai Lin</b></i>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. (中科院SCI 4区)"
 ---
 

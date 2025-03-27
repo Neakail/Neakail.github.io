@@ -1,7 +1,7 @@
 ---
-title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
+title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
 permalink: "/publications/number-12"
 year: "2025"
-citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b><i>Nankai Lin</b></i>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. (中科院SCI 1区, 通讯作者)"
+citation: "Dong Zhou, Qiang Ouyang, <b><i>Nankai Lin</b></i>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. (中科院SCI 4区, CCF C类期刊, 通讯作者)"
 ---
 

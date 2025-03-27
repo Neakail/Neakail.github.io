@@ -1,7 +1,7 @@
 ---
-title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
+title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
 permalink: "/publications/number-31"
-year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. (中科院4区, CCF B类期刊)"
+year: "2024"
+citation: "Shiqiao Huang, Weiwen Zhang, <b><i>Nankai Lin</b></i>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. (CCF C类会议, 通讯作者)"
 ---
 
