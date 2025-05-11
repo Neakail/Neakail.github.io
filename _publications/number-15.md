@@ -1,7 +1,7 @@
 ---
-title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
+title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
 permalink: "/publications/number-15"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. (中科院SCI 3区, CCF C类期刊)"
+citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b><i>Nankai Lin</b></i>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. (中科院SCI 1区, 通讯作者)"
 ---
 

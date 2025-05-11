@@ -1,7 +1,7 @@
 ---
-title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
+title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
 permalink: "/publications/number-40"
-year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. (中科院SCI 1区, CCF B类期刊)"
+year: "2023"
+citation: "<b><i>Nankai Lin</b></i>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. (CCF A类会议, Findings)"
 ---
 

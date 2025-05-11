@@ -1,7 +1,7 @@
 ---
-title: "Exploring Lexical Differences between Indonesian and Malay"
+title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
 permalink: "/publications/number-60"
-year: "2018"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Gangqin Zhu, Yanni Hou, Shengyi Jiang. Exploring Lexical Differences between Indonesian and Malay. International Conference on Asian Language Processing. 2018."
+year: "2019"
+citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
 ---
 

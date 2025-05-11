@@ -1,7 +1,7 @@
 ---
-title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+title: "Pre-trained Language Models for Tagalog with Multi-source data"
 permalink: "/publications/number-55"
-year: "2020"
-citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. (CCF C类会议)"
+year: "2021"
+citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. (CCF C类会议, 通讯作者)"
 ---
 

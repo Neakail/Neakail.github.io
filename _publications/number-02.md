@@ -1,7 +1,7 @@
 ---
-title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
+title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
 permalink: "/publications/number-02"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
+citation: "Ziling Dai, <b><i>Nankai Lin</b></i>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. (CCF B, 通讯作者)"
 ---
 

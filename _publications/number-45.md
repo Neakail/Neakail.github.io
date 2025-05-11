@@ -1,7 +1,7 @@
 ---
-title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
+title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
 permalink: "/publications/number-45"
-year: "2021"
-citation: "Kengtao Zheng, <b><i>Nankai Lin</b></i>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. (中科院SCI 2区, CCF B类期刊)"
+year: "2022"
+citation: "Jianying Zhu, Menglan Shen, <b><i>Nankai Lin</b></i>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. (通讯作者)"
 ---
 

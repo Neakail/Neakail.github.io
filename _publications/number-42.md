@@ -1,7 +1,7 @@
 ---
-title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
+title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
 permalink: "/publications/number-42"
 year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
+citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. (中科院SCI 1区, CCF B类期刊)"
 ---
 

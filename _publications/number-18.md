@@ -1,7 +1,7 @@
 ---
-title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
+title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
 permalink: "/publications/number-18"
 year: "2025"
-citation: "Hongyan Wu, <b><i>Nankai Lin</b></i>, Shengyi Jiang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. (CCF B类会议, 通讯作者)"
+citation: "Peijian Zeng, <b><i>Nankai Lin</b></i>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. (中科院SCI 4区)"
 ---
 

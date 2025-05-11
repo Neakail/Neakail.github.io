@@ -1,7 +1,7 @@
 ---
-title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
+title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
 permalink: "/publications/number-26"
 year: "2024"
-citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
+citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. (CCF B类会议, Findings)"
 ---
 

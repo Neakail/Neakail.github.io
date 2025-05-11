@@ -1,7 +1,7 @@
 ---
-title: "Emotion Classification of COVID-19 Chinese Microblogs Based on Contrastive Learning"
+title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
 permalink: "/publications/number-09"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotion Classification of COVID-19 Chinese Microblogs Based on Contrastive Learning. Applied Soft Computing. 2025. (中科院SCI 1区)"
+citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
 ---
 

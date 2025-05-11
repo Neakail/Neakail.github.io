@@ -1,7 +1,7 @@
 ---
-title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
+title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
 permalink: "/publications/number-03"
 year: "2025"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
+citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b><i>Nankai Lin</b></i>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. (通讯作者)"
 ---
 

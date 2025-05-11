@@ -1,7 +1,7 @@
 ---
-title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publications/number-46"
-year: "2021"
-citation: "Yingwen Fu, <b><i>Nankai Lin</b></i>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. (中科院SCI 4区)"
+year: "2022"
+citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
+title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
 permalink: "/publications/number-01"
 year: "2025"
-citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b><i>Nankai Lin</b></i>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. (通讯作者)"
+citation: "Hongbin Zhang, Kezhou Chen, <b><i>Nankai Lin</b></i>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. (CCF A)"
 ---
 

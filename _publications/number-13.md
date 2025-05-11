@@ -1,7 +1,7 @@
 ---
-title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
+title: "A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
 permalink: "/publications/number-13"
 year: "2025"
-citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b><i>Nankai Lin</b></i>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. (中科院SCI 1区, 通讯作者)"
+citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b><i>Nankai Lin</b></i>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. (中科院SCI 4区)"
 ---
 

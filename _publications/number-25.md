@@ -1,7 +1,7 @@
 ---
-title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publications/number-25"
 year: "2024"
-citation: "Dong Zhou, Binli Zeng, <b><i>Nankai Lin</b></i>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
+citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (中科院SCI 1区, CCF C类期刊)"
 ---
 

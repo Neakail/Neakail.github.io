@@ -1,7 +1,7 @@
 ---
-title: "LaoPLM: Pre-trained Language Models for Lao"
+title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
 permalink: "/publications/number-44"
 year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
+citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b><i>Nankai Lin</b></i>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. (CCF C类会议, 通讯作者)"
 ---
 
