@@ -32,3 +32,13 @@ redirect_from:
 2019-2022, 广东外语外贸大学, 网络空间安全, 硕士
 
 2015-2019, 广东外语外语大学, 软件工程, 学士
+
+工作经历
+======
+2025-, 广东外语外贸大学, 软件工程专业, 讲师, 硕士生导师
+
+主要学术兼职
+======
+AC: ACL 2025, EMNLP 2025
+编委: Information Processing and Management
+PCM & 审稿人: ACL 2022-2023, EMNLP 2022-2023, ICDM 2024-2025, IJCNN 2024-2025, Information Processing and Management, IEEE Transactions on Knowledge and Data Engineering, Journal of Supercomputing, Social Network Analysis and Mining, Expert Systems with Applications, Speech Communication, Knowledge-Based Systems, Tsinghua Science and Technology, Computer Speech and Language, Engineering Applications of Artificial Intelligence, Language Resources and Evaluation, International Journal of Multimedia Information Retrieval
