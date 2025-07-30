@@ -1,7 +1,7 @@
 ---
-title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
+title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
 permalink: "/publications/number-09"
 year: "2025"
-citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
+title: "EditMDS: An Iterative Optimization Method for Multi-Document Summarization Based on Edit Operations"
 permalink: "/publications/number-02"
 year: "2025"
-citation: "Ziling Dai, <b><i>Nankai Lin</b></i>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. (CCF B, 通讯作者)"
+citation: "Lianxi Wang, Yujia Tian, Zhuowei Chen, Mutong Li, Junyang Zhong, <b>Nankai Lin</b>. EditMDS: An Iterative Optimization Method for Multi-Document Summarization Based on Edit Operations. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
 ---
 

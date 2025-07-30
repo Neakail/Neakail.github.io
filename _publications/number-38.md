@@ -1,7 +1,7 @@
 ---
-title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
 permalink: "/publications/number-38"
 year: "2023"
-citation: "Haoyuan Bu, <b><i>Nankai Lin</b></i>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. (CCF C类会议, 通讯作者)"
+citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
 ---
 

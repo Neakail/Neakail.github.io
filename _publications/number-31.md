@@ -1,7 +1,7 @@
 ---
-title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
+title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
 permalink: "/publications/number-31"
 year: "2024"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. (CCF B类会议)"
+citation: "Dong Zhou, Binli Zeng, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

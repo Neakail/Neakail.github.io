@@ -1,7 +1,7 @@
 ---
-title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+title: "Research on Pseudo-label Technology for Multi-label News Classification"
 permalink: "/publications/number-57"
-year: "2020"
-citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. (CCF C类会议)"
+year: "2021"
+citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Research on Pseudo-label Technology for Multi-label News Classification. 16th International Conference on Document Analysis and Recognition. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

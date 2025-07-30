@@ -1,7 +1,7 @@
 ---
-title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
+title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
 permalink: "/publications/number-35"
-year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
+year: "2024"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. <b>(CCF B类会议)</b>"
 ---
 

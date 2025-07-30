@@ -1,7 +1,7 @@
 ---
-title: "LaoPLM: Pre-trained Language Models for Lao"
+title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
 permalink: "/publications/number-46"
 year: "2022"
-citation: "<b><i>Nankai Lin</b></i>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
+citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
 ---
 

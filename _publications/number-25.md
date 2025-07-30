@@ -1,7 +1,7 @@
 ---
-title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
+title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
 permalink: "/publications/number-25"
-year: "2024"
-citation: "Junheng He, <b><i>Nankai Lin</b></i>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. (中科院SCI 1区, CCF C类期刊)"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags"
+title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
 permalink: "/publications/number-07"
 year: "2025"
-citation: "Meiyu Zeng, Xingming Liao, Yongmei Zhou, Wentao Huang, <b><i>Nankai Lin</b></i>, Aimin Yang. Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
+title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
 permalink: "/publications/number-33"
 year: "2024"
-citation: "Shiqiao Huang, Weiwen Zhang, <b><i>Nankai Lin</b></i>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. (CCF C类会议, 通讯作者)"
+citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

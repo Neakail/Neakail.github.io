@@ -1,7 +1,7 @@
 ---
-title: "Exploring Lexical Differences between Indonesian and Malay"
+title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
 permalink: "/publications/number-62"
-year: "2018"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Gangqin Zhu, Yanni Hou, Shengyi Jiang. Exploring Lexical Differences between Indonesian and Malay. International Conference on Asian Language Processing. 2018."
+year: "2020"
+citation: "蒋盛益, 李珊珊, 符斯慧, <b>林楠铠</b>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. <b>(CCF B类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
+title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
 permalink: "/publications/number-22"
-year: "2024"
-citation: "Guanqiu Qin, <b><i>Nankai Lin</b></i>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. (中科院SCI 1区, CCF C类期刊)"
+year: "2025"
+citation: "Peijian Zeng, <b>Nankai Lin</b>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. <b>(中科院SCI 4区)</b>"
 ---
 

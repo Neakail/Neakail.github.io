@@ -1,7 +1,7 @@
 ---
-title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
+title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
 permalink: "/publications/number-43"
-year: "2022"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. (中科院SCI 2区, CCF B类期刊)"
+year: "2023"
+citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

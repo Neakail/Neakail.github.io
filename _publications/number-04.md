@@ -1,7 +1,7 @@
 ---
-title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
+title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
 permalink: "/publications/number-04"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. (中科院SCI 4区, CCF B类期刊)"
+citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

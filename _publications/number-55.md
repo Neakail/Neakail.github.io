@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Language Models for Tagalog with Multi-source data"
+title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
 permalink: "/publications/number-55"
 year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b><i>Nankai Lin</b></i>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. (CCF C类会议, 通讯作者)"
+citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

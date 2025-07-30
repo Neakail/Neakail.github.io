@@ -1,7 +1,7 @@
 ---
-title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
+title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
 permalink: "/publications/number-58"
-year: "2020"
-citation: "蒋盛益, 李珊珊, 符斯慧, <b><i>林楠铠</b></i>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. (CCF B类期刊)"
+year: "2021"
+citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
 ---
 

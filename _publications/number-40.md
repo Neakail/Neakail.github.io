@@ -1,7 +1,7 @@
 ---
-title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
+title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
 permalink: "/publications/number-40"
 year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. (CCF A类会议, Findings)"
+citation: "Yiwen Fu, <b>Nankai Lin</b>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

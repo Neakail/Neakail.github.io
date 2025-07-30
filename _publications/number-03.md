@@ -1,7 +1,7 @@
 ---
-title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
+title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
 permalink: "/publications/number-03"
 year: "2025"
-citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b><i>Nankai Lin</b></i>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. (通讯作者)"
+citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
 ---
 

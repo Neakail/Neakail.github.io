@@ -1,7 +1,7 @@
 ---
-title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
+title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
 permalink: "/publications/number-05"
 year: "2025"
-citation: "Qifeng Bai, <b><i>Nankai Lin</b></i>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. (中科院SCI 3区, CCF B类期刊, 通讯作者)"
+citation: "Hongbin Zhang, Kezhou Chen, <b>Nankai Lin</b>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. <b>(CCF A类会议)</b>"
 ---
 

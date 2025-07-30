@@ -1,7 +1,7 @@
 ---
-title: "WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification"
+title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
 permalink: "/publications/number-08"
 year: "2025"
-citation: "Wentao Huang, Zeyong Long, Dong Zhou, Zhijin Chen, Yongmei Zhou, <b><i>Nankai Lin</b></i>, Aimin Yang. WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
 ---
 

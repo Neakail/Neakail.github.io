@@ -1,7 +1,7 @@
 ---
-title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
+title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
 permalink: "/publications/number-34"
-year: "2023"
-citation: "<b><i>Nankai Lin</b></i>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. (中科院4区, CCF B类期刊)"
+year: "2024"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
 ---
 

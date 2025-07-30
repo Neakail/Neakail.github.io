@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Indonesian Grammar Error Correction"
+title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
 permalink: "/publications/number-49"
-year: "2021"
-citation: "<b><i>Nankai Lin</b></i>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. (中科院SCI 4区, CCF C类期刊)"
+year: "2022"
+citation: "Jianying Zhu, Menglan Shen, <b>Nankai Lin</b>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. <b>(通讯作者)</b>"
 ---
 

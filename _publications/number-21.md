@@ -1,7 +1,7 @@
 ---
-title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
+title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
 permalink: "/publications/number-21"
 year: "2025"
-citation: "<b><i>Nankai Lin</b></i>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. (CCF B类会议)"
+citation: "<b>Nankai Lin</b>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. <b>(中科院SCI 3区, CCF C类期刊)</b>"
 ---
 

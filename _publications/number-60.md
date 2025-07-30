@@ -1,7 +1,7 @@
 ---
-title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
+title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
 permalink: "/publications/number-60"
-year: "2019"
-citation: "<b><i>Nankai Lin</b></i>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
+year: "2020"
+citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
 ---
 

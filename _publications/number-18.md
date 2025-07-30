@@ -1,7 +1,7 @@
 ---
-title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
+title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
 permalink: "/publications/number-18"
 year: "2025"
-citation: "Peijian Zeng, <b><i>Nankai Lin</b></i>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. (中科院SCI 4区)"
+citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
 ---
 

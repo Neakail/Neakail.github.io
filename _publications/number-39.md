@@ -1,7 +1,7 @@
 ---
-title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
+title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
 permalink: "/publications/number-39"
 year: "2023"
-citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. (CCF C类会议, 通讯作者)"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

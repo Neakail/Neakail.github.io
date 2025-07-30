@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
+title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
 permalink: "/publications/number-45"
 year: "2022"
-citation: "Jianying Zhu, Menglan Shen, <b><i>Nankai Lin</b></i>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. (通讯作者)"
+citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
 ---
 

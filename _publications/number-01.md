@@ -1,7 +1,7 @@
 ---
-title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
+title: "A Chinese Spell Checking Framework Based on Reverse Contrastive Learning"
 permalink: "/publications/number-01"
 year: "2025"
-citation: "Hongbin Zhang, Kezhou Chen, <b><i>Nankai Lin</b></i>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. (CCF A)"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Sihui Fu, Shengyi Jiang, Aimin Yang. A Chinese Spell Checking Framework Based on Reverse Contrastive Learning. Journal of Computer Science and Technology. 2025. <b>(中科院SCI 3区, CCF B类期刊)</b>"
 ---
 

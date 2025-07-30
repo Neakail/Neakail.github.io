@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
 permalink: "/publications/number-06"
 year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b><i>Nankai Lin</b></i>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. (CCF C类会议, 通讯作者)"
+citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
+title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
 permalink: "/publications/number-28"
 year: "2024"
-citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b><i>Nankai Lin</b></i>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. (CCF C类会议, 通讯作者)"
+citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
 ---
 

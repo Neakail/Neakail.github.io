@@ -1,7 +1,7 @@
 ---
-title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
+title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
 permalink: "/publications/number-36"
-year: "2023"
-citation: "Yiwen Fu, <b><i>Nankai Lin</b></i>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. (中科院SCI 2区, CCF B类期刊)"
+year: "2024"
+citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 
