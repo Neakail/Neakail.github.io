@@ -31,6 +31,8 @@ redirect_from:
 ======
 AC: ACL 2025, EMNLP 2025
 
-编委: Information Processing and Management
+副主编：International Journal of Autonomous and Adaptive Communications Systems（中科院SCI 4区）
+
+编委: Information Processing and Management（中科院SCI 1区，CCF B）
 
 PCM & 审稿人: ACL 2022-2023, EMNLP 2022-2023, ICDM 2024-2025, IJCNN 2024-2025, Information Processing and Management, IEEE Transactions on Knowledge and Data Engineering, Journal of Supercomputing, Social Network Analysis and Mining, Expert Systems with Applications, Speech Communication, Knowledge-Based Systems, Tsinghua Science and Technology, Computer Speech and Language, Engineering Applications of Artificial Intelligence, Language Resources and Evaluation, International Journal of Multimedia Information Retrieval
