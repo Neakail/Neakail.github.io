@@ -1,7 +1,7 @@
 ---
-title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
+title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
 permalink: "/publications/number-06"
 year: "2025"
-citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

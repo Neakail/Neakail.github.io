@@ -1,7 +1,7 @@
 ---
-title: "A Chinese Spell Checking Framework Based on Reverse Contrastive Learning"
+title: "基于上下文学习的多语言文本分类方法"
 permalink: "/publications/number-02"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Sihui Fu, Shengyi Jiang, Aimin Yang. A Chinese Spell Checking Framework Based on Reverse Contrastive Learning. Journal of Computer Science and Technology. 2025. <b>(中科院SCI 3区, CCF B类期刊)</b>"
+citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
 ---
 

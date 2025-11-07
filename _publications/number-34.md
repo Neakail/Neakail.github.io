@@ -1,7 +1,7 @@
 ---
-title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
+title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
 permalink: "/publications/number-34"
 year: "2024"
-citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
+citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
+title: "Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags"
 permalink: "/publications/number-13"
 year: "2025"
-citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b>Nankai Lin</b>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Meiyu Zeng, Xingming Liao, Yongmei Zhou, Wentao Huang, <b>Nankai Lin</b>, Aimin Yang. Enhancing Cross-lingual Aspect-Based Sentiment Analysis with Code-mixed In-Context Demonstrations and Language-Specific Tags. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

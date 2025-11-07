@@ -1,7 +1,7 @@
 ---
-title: "A Contrastive News Recommendation Framework Based on Curriculum Learning"
+title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
 permalink: "/publications/number-23"
 year: "2025"
-citation: "Xingran Zhou, <b>Nankai Lin</b>, Weixiong Zheng, Dong Zhou, Aimin Yang. A Contrastive News Recommendation Framework Based on Curriculum Learning. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. <b>(中科院SCI 3区, CCF C类期刊)</b>"
 ---
 
