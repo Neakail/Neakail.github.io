@@ -1,7 +1,7 @@
 ---
-title: "A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning"
+title: "基于上下文学习的多语言文本分类方法"
 permalink: "/publications/number-11"
 year: "2025"
-citation: "Qifeng Bai, <b>Nankai Lin</b>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. A Dynamic De-Biasing Framework for Sequence Recommendation Based on Adversarial Contrastive Learning. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
+citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
 ---
 

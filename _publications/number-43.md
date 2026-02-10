@@ -1,7 +1,7 @@
 ---
-title: "印地语自然语言处理研究进展"
+title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
 permalink: "/publications/number-43"
-year: "2023"
-citation: "王连喜, <b>林楠铠</b>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. <b>(CCF B类期刊)</b>"
+year: "2024"
+citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

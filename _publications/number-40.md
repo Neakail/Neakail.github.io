@@ -1,7 +1,7 @@
 ---
-title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publications/number-40"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Junheng He, <b>Nankai Lin</b>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

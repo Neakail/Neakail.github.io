@@ -1,7 +1,7 @@
 ---
-title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
 permalink: "/publications/number-35"
-year: "2024"
-citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
+title: "Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publications/number-65"
-year: "2019"
-citation: "Yusha Zhang, <b>Nankai Lin</b>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. <b>(通讯作者)</b>"
+year: "2021"
+citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
 ---
 

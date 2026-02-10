@@ -1,7 +1,7 @@
 ---
-title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
+title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
 permalink: "/publications/number-46"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. <b>(CCF A类会议, Findings)</b>"
+year: "2024"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. <b>(CCF B类会议)</b>"
 ---
 

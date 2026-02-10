@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Language Models for Tagalog with Multi-source data"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publications/number-61"
-year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b>Nankai Lin</b>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

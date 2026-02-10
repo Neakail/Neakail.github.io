@@ -1,7 +1,7 @@
 ---
-title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
+title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
 permalink: "/publications/number-24"
 year: "2025"
-citation: "Peijian Zeng, <b>Nankai Lin</b>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. <b>(中科院SCI 4区)</b>"
+citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b>Nankai Lin</b>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

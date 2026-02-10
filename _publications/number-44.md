@@ -1,7 +1,7 @@
 ---
-title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
+title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
 permalink: "/publications/number-44"
-year: "2023"
-citation: "Haoyuan Bu, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2024"
+citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

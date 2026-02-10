@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
 permalink: "/publications/number-57"
-year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
 ---
 

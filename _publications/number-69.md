@@ -1,7 +1,7 @@
 ---
-title: "Learning Indonesian Frequently Used Vocabulary from Large-scale News"
+title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
 permalink: "/publications/number-69"
-year: "2018"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Shengyi Jiang, Chen Chen, Lixian Xiao, Gangqin Zhu. Learning Indonesian Frequently Used Vocabulary from Large-scale News. International Conference on Asian Language Processing. 2018."
+year: "2021"
+citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
 ---
 

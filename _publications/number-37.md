@@ -1,7 +1,7 @@
 ---
-title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
+title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
 permalink: "/publications/number-37"
 year: "2024"
-citation: "Qifeng Bai, <b>Nankai Lin</b>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. <b>(CCF B类会议)</b>"
+citation: "Guanqiu Qin, <b>Nankai Lin</b>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

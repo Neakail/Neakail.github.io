@@ -1,7 +1,7 @@
 ---
-title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
+title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
 permalink: "/publications/number-48"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Shiqiao Huang, Weiwen Zhang, <b>Nankai Lin</b>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
 permalink: "/publications/number-49"
-year: "2022"
-citation: "Yiwen Fu, <b>Nankai Lin</b>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2023"
+citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
 ---
 

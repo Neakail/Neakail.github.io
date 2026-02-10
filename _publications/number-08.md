@@ -1,7 +1,7 @@
 ---
-title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
+title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
 permalink: "/publications/number-08"
-year: "2025"
-citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
+year: "2026"
+citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
 ---
 

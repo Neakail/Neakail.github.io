@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
 permalink: "/publications/number-47"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
+year: "2024"
+citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

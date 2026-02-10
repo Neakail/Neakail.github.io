@@ -1,7 +1,7 @@
 ---
-title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
+title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
 permalink: "/publications/number-66"
-year: "2019"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
+year: "2021"
+citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

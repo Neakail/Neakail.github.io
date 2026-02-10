@@ -1,7 +1,7 @@
 ---
-title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
+title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
 permalink: "/publications/number-03"
-year: "2025"
-citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B期刊, 通讯作者)</b>"
+year: "2026"
+citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

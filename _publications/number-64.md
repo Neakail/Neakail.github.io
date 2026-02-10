@@ -1,7 +1,7 @@
 ---
-title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
+title: "A Framework for Indonesian Grammar Error Correction"
 permalink: "/publications/number-64"
-year: "2020"
-citation: "蒋盛益, 李珊珊, 符斯慧, <b>林楠铠</b>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. <b>(CCF B类期刊)</b>"
+year: "2021"
+citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

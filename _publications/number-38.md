@@ -1,7 +1,7 @@
 ---
-title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
+title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
 permalink: "/publications/number-38"
 year: "2024"
-citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
+title: "A Contrastive News Recommendation Framework Based on Curriculum Learning"
 permalink: "/publications/number-34"
-year: "2024"
-citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "Xingran Zhou, <b>Nankai Lin</b>, Weixiong Zheng, Dong Zhou, Aimin Yang. A Contrastive News Recommendation Framework Based on Curriculum Learning. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
 ---
 

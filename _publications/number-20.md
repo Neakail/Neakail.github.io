@@ -1,7 +1,7 @@
 ---
-title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
+title: "Ensuring Accuracy and Fairness: A De-biasing Framework for Sequential Recommendation"
 permalink: "/publications/number-20"
 year: "2025"
-citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. Ensuring Accuracy and Fairness: A De-biasing Framework for Sequential Recommendation. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
 ---
 

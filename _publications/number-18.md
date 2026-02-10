@@ -1,7 +1,7 @@
 ---
-title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
+title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
 permalink: "/publications/number-18"
 year: "2025"
-citation: "Zhijin Chen, <b>Nankai Lin</b>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
 ---
 

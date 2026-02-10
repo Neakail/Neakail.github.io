@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Indonesian Grammar Error Correction"
+title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
 permalink: "/publications/number-55"
-year: "2021"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+year: "2023"
+citation: "<b>Nankai Lin</b>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. <b>(CCF A类会议, Findings)</b>"
 ---
 

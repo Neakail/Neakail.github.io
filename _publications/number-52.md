@@ -1,7 +1,7 @@
 ---
-title: "LaoPLM: Pre-trained Language Models for Lao"
+title: "印地语自然语言处理研究进展"
 permalink: "/publications/number-52"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
+year: "2023"
+citation: "王连喜, <b>林楠铠</b>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. <b>(CCF B类期刊)</b>"
 ---
 

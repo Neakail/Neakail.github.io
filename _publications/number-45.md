@@ -1,7 +1,7 @@
 ---
-title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
+title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
 permalink: "/publications/number-45"
-year: "2023"
-citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2024"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
 ---
 

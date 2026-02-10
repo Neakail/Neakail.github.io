@@ -1,7 +1,7 @@
 ---
-title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
+title: "EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data"
 permalink: "/publications/number-05"
-year: "2025"
-citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
+year: "2026"
+citation: "Lianxi Wang, Xuming Li, Yuting Su, Songxi Xu, Jiahuan Yang, <b>Nankai Lin</b>, Shengyi Jiang. EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data. International Conference on Acoustics, Speech, and Signal Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

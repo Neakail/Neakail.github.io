@@ -1,7 +1,7 @@
 ---
-title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
+title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
 permalink: "/publications/number-60"
-year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
+year: "2022"
+citation: "Jianying Zhu, Menglan Shen, <b>Nankai Lin</b>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. <b>(通讯作者)</b>"
 ---
 

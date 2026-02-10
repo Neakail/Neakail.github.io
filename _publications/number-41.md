@@ -1,7 +1,7 @@
 ---
-title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
+title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
 permalink: "/publications/number-41"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2024"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. <b>(CCF B类会议, Findings)</b>"
 ---
 

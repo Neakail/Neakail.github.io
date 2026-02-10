@@ -1,7 +1,7 @@
 ---
-title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
+title: "An Interpretability Framework for Similar Case Matching"
 permalink: "/publications/number-09"
 year: "2025"
-citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

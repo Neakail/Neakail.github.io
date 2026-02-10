@@ -1,7 +1,7 @@
 ---
-title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
+title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
 permalink: "/publications/number-42"
-year: "2023"
-citation: "Yiwen Fu, <b>Nankai Lin</b>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Dong Zhou, Binli Zeng, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
+title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
 permalink: "/publications/number-33"
-year: "2024"
-citation: "Dong Zhou, Binli Zeng, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "Peijian Zeng, <b>Nankai Lin</b>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. <b>(中科院SCI 4区)</b>"
 ---
 

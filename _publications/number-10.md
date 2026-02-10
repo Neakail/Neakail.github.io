@@ -1,7 +1,7 @@
 ---
-title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
+title: "基于分子结构与课程学习的跨模态分子检索"
 permalink: "/publications/number-10"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "<b>林楠铠</b>, 伍奕倩, 黄丽霓, 武洪艳, 徐臻, 王连喜. 基于分子结构与课程学习的跨模态分子检索. 计算机科学与探索. 2025. <b>(CCF B类期刊)</b>"
 ---
 

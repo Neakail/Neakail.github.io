@@ -1,7 +1,7 @@
 ---
-title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
+title: "Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning"
 permalink: "/publications/number-26"
 year: "2025"
-citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning. Applied Soft Computing. 2025. <b>(中科院SCI 1区)</b>"
 ---
 

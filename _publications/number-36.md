@@ -1,7 +1,7 @@
 ---
-title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
+title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
 permalink: "/publications/number-36"
-year: "2024"
-citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议)</b>"
 ---
 

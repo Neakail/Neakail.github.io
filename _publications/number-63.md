@@ -1,7 +1,7 @@
 ---
-title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
 permalink: "/publications/number-63"
-year: "2020"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. <b>(CCF C类会议)</b>"
+year: "2021"
+citation: "Yingwen Fu, <b>Nankai Lin</b>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. <b>(中科院SCI 4区)</b>"
 ---
 

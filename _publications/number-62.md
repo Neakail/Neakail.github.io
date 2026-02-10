@@ -1,7 +1,7 @@
 ---
-title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
+title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
 permalink: "/publications/number-62"
-year: "2020"
-citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
+year: "2021"
+citation: "Kengtao Zheng, <b>Nankai Lin</b>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

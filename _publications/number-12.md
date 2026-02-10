@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
 permalink: "/publications/number-12"
 year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b>Nankai Lin</b>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊, 通讯作者)</b>"
 ---
 

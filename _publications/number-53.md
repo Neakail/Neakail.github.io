@@ -1,7 +1,7 @@
 ---
-title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
+title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
 permalink: "/publications/number-53"
-year: "2021"
-citation: "Kengtao Zheng, <b>Nankai Lin</b>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2023"
+citation: "Haoyuan Bu, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

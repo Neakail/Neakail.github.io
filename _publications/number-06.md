@@ -1,7 +1,7 @@
 ---
-title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
+title: "多语种文本纠错技术研究现状与进展综述"
 permalink: "/publications/number-06"
-year: "2025"
-citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
+year: "2026"
+citation: "<b>林楠铠</b>, 韩祎童, 阮博文, 武洪艳, 蒋盛益*, 王连喜. 多语种文本纠错技术研究现状与进展综述. 计算机科学与探索. 2026. <b>(CCF B类期刊)</b>"
 ---
 

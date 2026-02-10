@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Khmer Language"
+title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
 permalink: "/publications/number-56"
-year: "2021"
-citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
 ---
 

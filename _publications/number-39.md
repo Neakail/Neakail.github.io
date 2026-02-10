@@ -1,7 +1,7 @@
 ---
-title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
+title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
 permalink: "/publications/number-39"
 year: "2024"
-citation: "Shiqiao Huang, Weiwen Zhang, <b>Nankai Lin</b>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
 ---
 

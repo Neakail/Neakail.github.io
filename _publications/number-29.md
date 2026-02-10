@@ -1,7 +1,7 @@
 ---
-title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
+title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
 permalink: "/publications/number-29"
-year: "2024"
-citation: "<b>Nankai Lin</b>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+year: "2025"
+citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
 ---
 
