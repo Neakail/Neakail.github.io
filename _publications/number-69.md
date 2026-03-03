@@ -1,7 +1,7 @@
 ---
-title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
+title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
 permalink: "/publications/number-69"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
+citation: "Shengyi Jiang, Yingwen Fu, <b>Nankai Lin</b>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

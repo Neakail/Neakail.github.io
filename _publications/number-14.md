@@ -1,7 +1,7 @@
 ---
-title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
+title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
 permalink: "/publications/number-14"
 year: "2025"
-citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
+citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊, 通讯作者)</b>"
 ---
 

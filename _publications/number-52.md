@@ -1,7 +1,7 @@
 ---
-title: "印地语自然语言处理研究进展"
+title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
 permalink: "/publications/number-52"
 year: "2023"
-citation: "王连喜, <b>林楠铠</b>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. <b>(CCF B类期刊)</b>"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

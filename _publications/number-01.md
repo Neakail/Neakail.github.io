@@ -1,7 +1,7 @@
 ---
-title: "多模态情感分析：研究全景、技术演进与生成式重构"
+title: "Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring"
 permalink: "/publications/number-01"
 year: "2026"
-citation: "王连喜, 廖信峰, 陈宣齐，黄华煜，<b>林楠铠</b>，蒋盛益. 多模态情感分析：研究全景、技术演进与生成式重构. 计算机学报. 2026. <b>(CCF A类期刊)</b>"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang. Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring. Expert Systems with Applications. 2026. <b>(中科院SCI 1区, CCF C类期刊, 通讯作者)</b>"
 ---
 

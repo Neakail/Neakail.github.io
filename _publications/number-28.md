@@ -1,7 +1,7 @@
 ---
-title: "A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
+title: "Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning"
 permalink: "/publications/number-28"
 year: "2025"
-citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b>Nankai Lin</b>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. <b>(中科院SCI 4区)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning. Applied Soft Computing. 2025. <b>(中科院SCI 1区)</b>"
 ---
 

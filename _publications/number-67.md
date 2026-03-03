@@ -1,7 +1,7 @@
 ---
-title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
+title: "Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publications/number-67"
 year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, <b>Nankai Lin</b>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
 ---
 

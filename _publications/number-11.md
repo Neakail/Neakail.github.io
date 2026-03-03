@@ -1,7 +1,7 @@
 ---
-title: "基于上下文学习的多语言文本分类方法"
+title: "An Interpretability Framework for Similar Case Matching"
 permalink: "/publications/number-11"
 year: "2025"
-citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
+citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

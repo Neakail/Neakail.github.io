@@ -1,7 +1,7 @@
 ---
-title: "EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data"
+title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
 permalink: "/publications/number-05"
 year: "2026"
-citation: "Lianxi Wang, Xuming Li, Yuting Su, Songxi Xu, Jiahuan Yang, <b>Nankai Lin</b>, Shengyi Jiang. EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data. International Conference on Acoustics, Speech, and Signal Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

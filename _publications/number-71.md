@@ -1,7 +1,7 @@
 ---
-title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
+title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
 permalink: "/publications/number-71"
-year: "2020"
-citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
+year: "2021"
+citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
 ---
 

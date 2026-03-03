@@ -1,7 +1,7 @@
 ---
-title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
+title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
 permalink: "/publications/number-16"
 year: "2025"
-citation: "Hongbin Zhang, Kezhou Chen, <b>Nankai Lin</b>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. <b>(CCF A类会议)</b>"
+citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
 ---
 
