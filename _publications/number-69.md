@@ -1,7 +1,7 @@
 ---
-title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
+title: "A Framework for Indonesian Grammar Error Correction"
 permalink: "/publications/number-69"
 year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, <b>Nankai Lin</b>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

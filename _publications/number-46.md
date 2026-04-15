@@ -1,7 +1,7 @@
 ---
-title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
 permalink: "/publications/number-46"
 year: "2024"
-citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. <b>(CCF B类会议, Findings)</b>"
 ---
 

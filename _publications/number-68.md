@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
 permalink: "/publications/number-68"
 year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Yingwen Fu, <b>Nankai Lin</b>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. <b>(中科院SCI 4区)</b>"
 ---
 

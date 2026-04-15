@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Indonesian Grammar Error Correction"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publications/number-66"
-year: "2021"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

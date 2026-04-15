@@ -1,7 +1,7 @@
 ---
-title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
+title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
 permalink: "/publications/number-40"
-year: "2024"
-citation: "<b>Nankai Lin</b>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+year: "2025"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

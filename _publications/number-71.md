@@ -1,7 +1,7 @@
 ---
-title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
+title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
 permalink: "/publications/number-71"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
+citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

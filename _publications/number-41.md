@@ -1,7 +1,7 @@
 ---
-title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
+title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
 permalink: "/publications/number-41"
-year: "2024"
-citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议)</b>"
 ---
 

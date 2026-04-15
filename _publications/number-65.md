@@ -1,7 +1,7 @@
 ---
-title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
+title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
 permalink: "/publications/number-65"
-year: "2021"
-citation: "Yingwen Fu, <b>Nankai Lin</b>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. <b>(中科院SCI 4区)</b>"
+year: "2022"
+citation: "Jianying Zhu, Menglan Shen, <b>Nankai Lin</b>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. <b>(通讯作者)</b>"
 ---
 

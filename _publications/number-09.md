@@ -1,7 +1,7 @@
 ---
-title: "An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago"
+title: "CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning"
 permalink: "/publications/number-09"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Hongyan Wu, Aimin Yang, Shengyi Jiang. An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago. Chinese Language and Discourse. 2026. <b>(中科院SCI 4区)</b>"
+citation: "Xinmeng Zhang, Caiyun Xie, Xining Yang, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

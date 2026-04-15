@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Khmer Language"
+title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
 permalink: "/publications/number-67"
 year: "2021"
-citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
+citation: "Kengtao Zheng, <b>Nankai Lin</b>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

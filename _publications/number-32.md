@@ -1,7 +1,7 @@
 ---
-title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
+title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
 permalink: "/publications/number-32"
 year: "2025"
-citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b>Nankai Lin</b>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. <b>(中科院SCI 1区, 通讯作者)</b>"
+citation: "Zhijin Chen, <b>Nankai Lin</b>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
 ---
 

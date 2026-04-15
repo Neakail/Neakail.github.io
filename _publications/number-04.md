@@ -1,7 +1,7 @@
 ---
-title: "基于混合码提示学习的跨语言假新闻检测框架"
+title: "Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring"
 permalink: "/publications/number-04"
 year: "2026"
-citation: "<b>林楠铠</b>, 曾美谕, 武洪艳, 彭儒, 蒋盛益, 王连喜, 阳爱民. 基于混合码提示学习的跨语言假新闻检测框架. 中文信息学报. 2026. <b>(CCF B类期刊)</b>"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang. Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring. Expert Systems with Applications. 2026. <b>(中科院SCI 1区, CCF C类期刊, 通讯作者)</b>"
 ---
 

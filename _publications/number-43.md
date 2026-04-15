@@ -1,7 +1,7 @@
 ---
-title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
+title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
 permalink: "/publications/number-43"
 year: "2024"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. <b>(CCF B类会议, Findings)</b>"
+citation: "<b>Nankai Lin</b>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

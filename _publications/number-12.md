@@ -1,7 +1,7 @@
 ---
-title: "基于分子结构与课程学习的跨模态分子检索"
+title: "An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago"
 permalink: "/publications/number-12"
-year: "2025"
-citation: "<b>林楠铠</b>, 伍奕倩, 黄丽霓, 武洪艳, 徐臻, 王连喜. 基于分子结构与课程学习的跨模态分子检索. 计算机科学与探索. 2025. <b>(CCF B类期刊)</b>"
+year: "2026"
+citation: "<b>Nankai Lin</b>, Sihui Fu, Hongyan Wu, Aimin Yang, Shengyi Jiang. An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago. Chinese Language and Discourse. 2026. <b>(中科院SCI 4区)</b>"
 ---
 

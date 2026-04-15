@@ -1,7 +1,7 @@
 ---
-title: "EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data"
+title: "基于混合码提示学习的跨语言假新闻检测框架"
 permalink: "/publications/number-07"
 year: "2026"
-citation: "Lianxi Wang, Xuming Li, Yuting Su, Songxi Xu, Jiahuan Yang, <b>Nankai Lin</b>, Shengyi Jiang. EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data. International Conference on Acoustics, Speech, and Signal Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>林楠铠</b>, 曾美谕, 武洪艳, 彭儒, 蒋盛益, 王连喜, 阳爱民. 基于混合码提示学习的跨语言假新闻检测框架. 中文信息学报. 2026. <b>(CCF B类期刊)</b>"
 ---
 

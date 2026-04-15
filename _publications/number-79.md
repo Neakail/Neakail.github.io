@@ -1,7 +1,7 @@
 ---
-title: "Exploring Lexical Differences between Indonesian and Malay"
+title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
 permalink: "/publications/number-79"
-year: "2018"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Gangqin Zhu, Yanni Hou, Shengyi Jiang. Exploring Lexical Differences between Indonesian and Malay. International Conference on Asian Language Processing. 2018."
+year: "2019"
+citation: "Yusha Zhang, <b>Nankai Lin</b>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. <b>(通讯作者)</b>"
 ---
 

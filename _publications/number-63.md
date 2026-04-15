@@ -1,7 +1,7 @@
 ---
-title: "LaoPLM: Pre-trained Language Models for Lao"
+title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
 permalink: "/publications/number-63"
 year: "2022"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
+citation: "Yiwen Fu, <b>Nankai Lin</b>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

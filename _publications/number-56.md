@@ -1,7 +1,7 @@
 ---
-title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
+title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
 permalink: "/publications/number-56"
 year: "2023"
-citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Yiwen Fu, <b>Nankai Lin</b>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

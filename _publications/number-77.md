@@ -1,7 +1,7 @@
 ---
-title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
+title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
 permalink: "/publications/number-77"
-year: "2019"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
+year: "2020"
+citation: "<b>Nankai Lin</b>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. <b>(CCF C类会议)</b>"
 ---
 

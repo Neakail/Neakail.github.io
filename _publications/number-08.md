@@ -1,7 +1,7 @@
 ---
-title: "多语种文本纠错技术研究现状与进展综述"
+title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
 permalink: "/publications/number-08"
 year: "2026"
-citation: "<b>林楠铠</b>, 韩祎童, 阮博文, 武洪艳, 蒋盛益, 王连喜. 多语种文本纠错技术研究现状与进展综述. 计算机科学与探索. 2026. <b>(CCF B类期刊)</b>"
+citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

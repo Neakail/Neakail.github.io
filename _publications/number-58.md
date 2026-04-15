@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
 permalink: "/publications/number-58"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
+year: "2023"
+citation: "Haoyuan Bu, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

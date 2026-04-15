@@ -1,7 +1,7 @@
 ---
-title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
+title: "Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning"
 permalink: "/publications/number-31"
 year: "2025"
-citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning. Applied Soft Computing. 2025. <b>(中科院SCI 1区)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning"
+title: "多模态情感分析：研究全景、技术演进与生成式重构"
 permalink: "/publications/number-06"
 year: "2026"
-citation: "Xinmeng Zhang, Caiyun Xie, Xining Yang, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "王连喜, 廖信峰, 陈宣齐，黄华煜，<b>林楠铠</b>，蒋盛益. 多模态情感分析：研究全景、技术演进与生成式重构. 计算机学报. 2026. <b>(CCF A类期刊)</b>"
 ---
 

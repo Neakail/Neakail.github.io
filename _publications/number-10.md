@@ -1,7 +1,7 @@
 ---
-title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
+title: "EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data"
 permalink: "/publications/number-10"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
+citation: "Lianxi Wang, Xuming Li, Yuting Su, Songxi Xu, Jiahuan Yang, <b>Nankai Lin</b>, Shengyi Jiang. EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data. International Conference on Acoustics, Speech, and Signal Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

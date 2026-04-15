@@ -1,7 +1,7 @@
 ---
-title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
+title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
 permalink: "/publications/number-50"
 year: "2024"
-citation: "Shiqiao Huang, Weiwen Zhang, <b>Nankai Lin</b>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
+title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
 permalink: "/publications/number-60"
-year: "2022"
-citation: "Yiwen Fu, <b>Nankai Lin</b>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2023"
+citation: "<b>Nankai Lin</b>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. <b>(CCF A类会议, Findings)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
 permalink: "/publications/number-23"
 year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b>Nankai Lin</b>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
+title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
 permalink: "/publications/number-42"
 year: "2024"
-citation: "Junheng He, <b>Nankai Lin</b>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+citation: "Guanqiu Qin, <b>Nankai Lin</b>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

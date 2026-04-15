@@ -1,7 +1,7 @@
 ---
-title: "印地语自然语言处理研究进展"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
 permalink: "/publications/number-54"
 year: "2023"
-citation: "王连喜, <b>林楠铠</b>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. <b>(CCF B类期刊)</b>"
+citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
 ---
 

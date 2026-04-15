@@ -1,7 +1,7 @@
 ---
-title: "基于上下文学习的多语言文本分类方法"
+title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
 permalink: "/publications/number-13"
-year: "2025"
-citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
+year: "2026"
+citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
+title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
 permalink: "/publications/number-61"
 year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b>Nankai Lin</b>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
+title: "FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning"
 permalink: "/publications/number-29"
 year: "2025"
-citation: "Zhijin Chen, <b>Nankai Lin</b>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "Zeyong Long, Weixiong Zheng, Dong Zhou, Yongmei Zhou, <b>Nankai Lin</b>, Aimin Yang. FairTriplet: Balancing Fairness and Accuracy in Contextual Pre-trained Models through Prompt Tuning. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

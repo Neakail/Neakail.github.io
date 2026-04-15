@@ -1,7 +1,7 @@
 ---
-title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
+title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
 permalink: "/publications/number-34"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. <b>(中科院SCI 3区, CCF C类期刊)</b>"
+citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
 ---
 

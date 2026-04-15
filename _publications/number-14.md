@@ -1,7 +1,7 @@
 ---
-title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
+title: "An Interpretability Framework for Similar Case Matching"
 permalink: "/publications/number-14"
 year: "2025"
-citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition"
+title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
 permalink: "/publications/number-37"
 year: "2025"
-citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang, Aimin Yang. Pseudo-label Data Construction Method and Syntax-enhanced Model for Chinese Semantic Error Recognition. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. <b>(中科院SCI 3区, CCF C类期刊)</b>"
 ---
 
