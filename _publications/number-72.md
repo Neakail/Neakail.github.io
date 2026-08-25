@@ -1,7 +1,7 @@
 ---
-title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
+title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
 permalink: "/publications/number-72"
-year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, <b>Nankai Lin</b>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
 ---
 

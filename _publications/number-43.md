@@ -1,7 +1,7 @@
 ---
-title: "Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling"
+title: "A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing"
 permalink: "/publications/number-43"
-year: "2024"
-citation: "<b>Nankai Lin</b>, Meiyu Zeng, Xingming Liao, Weizhong Liu, Aimin Yang, Dong Zhou. Addressing Imbalance Challenges in Cross-Lingual Aspect-based Sentiment Analysis: Dynamic Loss Weights and Anti-decoupling. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+year: "2025"
+citation: "Hongbin Zhang, Tao Wang, Zhuowei Wang, <b>Nankai Lin</b>, Chong Chen, Lianglun Cheng. A GPT-assisted Multi-Granularity Contrastive Learning approach for Knowledge Graph Entity Typing. ACM Transactions on Intelligent Systems and Technology. 2025. <b>(中科院SCI 4区)</b>"
 ---
 

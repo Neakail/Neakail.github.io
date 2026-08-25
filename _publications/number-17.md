@@ -1,7 +1,7 @@
 ---
-title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
+title: "基于混合码提示学习的跨语言假新闻检测框架"
 permalink: "/publications/number-17"
-year: "2025"
-citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊, 通讯作者)</b>"
+year: "2026"
+citation: "<b>林楠铠</b>, 曾美谕, 武洪艳, 彭儒, 蒋盛益, 王连喜, 阳爱民. 基于混合码提示学习的跨语言假新闻检测框架. 中文信息学报. 2026. <b>(CCF B类期刊)</b>"
 ---
 

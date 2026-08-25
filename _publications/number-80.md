@@ -1,7 +1,7 @@
 ---
-title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
+title: "Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publications/number-80"
-year: "2019"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
+year: "2021"
+citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
 ---
 

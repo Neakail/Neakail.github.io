@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
 permalink: "/publications/number-71"
-year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
 ---
 

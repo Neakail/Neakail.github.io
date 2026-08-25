@@ -1,7 +1,7 @@
 ---
-title: "多语种文本纠错技术研究现状与进展综述"
+title: "Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection"
 permalink: "/publications/number-11"
 year: "2026"
-citation: "<b>林楠铠</b>, 韩祎童, 阮博文, 武洪艳, 蒋盛益, 王连喜. 多语种文本纠错技术研究现状与进展综述. 计算机科学与探索. 2026. <b>(CCF B类期刊)</b>"
+citation: "Xingming Liao, Meiyu Zeng, Canyu Chen, <b>Nankai Lin</b>, Zhuowei Wang, Aimin Yang. Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection. International Conference on Multimedia Retrieval. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

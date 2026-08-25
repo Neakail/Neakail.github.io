@@ -1,7 +1,7 @@
 ---
-title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
+title: "A Framework for Indonesian Grammar Error Correction"
 permalink: "/publications/number-79"
-year: "2019"
-citation: "Yusha Zhang, <b>Nankai Lin</b>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. <b>(通讯作者)</b>"
+year: "2021"
+citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

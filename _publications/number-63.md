@@ -1,7 +1,7 @@
 ---
-title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
+title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
 permalink: "/publications/number-63"
-year: "2022"
-citation: "Yiwen Fu, <b>Nankai Lin</b>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Shiqiao Huang, Weiwen Zhang, <b>Nankai Lin</b>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "An Effective Deployment of Contrastive Learning in Multi-label Text Classification"
+title: "CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解"
 permalink: "/publications/number-60"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Guanqiu Qin, Jigang Wang, Dong Zhou, Aimin Yang. An Effective Deployment of Contrastive Learning in Multi-label Text Classification. Annual Meeting of the Association for Computational Linguistics. 2023. <b>(CCF A类会议, Findings)</b>"
+year: "2024"
+citation: "Hongyan Wu, <b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Aimin Yang. CCL24-Eval任务3系统报告：基于上下文学习的空间语义理解. China National Conference on Computational Linguistics. 2024. <b>(通讯作者)</b>"
 ---
 

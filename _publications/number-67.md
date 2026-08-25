@@ -1,7 +1,7 @@
 ---
-title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
+title: "印地语自然语言处理研究进展"
 permalink: "/publications/number-67"
-year: "2021"
-citation: "Kengtao Zheng, <b>Nankai Lin</b>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2023"
+citation: "王连喜, <b>林楠铠</b>, 邓致妍, 蒋盛益. 印地语自然语言处理研究进展. 中文信息学报. 2023. <b>(CCF B类期刊)</b>"
 ---
 

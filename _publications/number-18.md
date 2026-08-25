@@ -1,7 +1,7 @@
 ---
-title: "A Chinese Spell Checking Framework Based on Reverse Contrastive Learning"
+title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
 permalink: "/publications/number-18"
-year: "2025"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Sihui Fu, Shengyi Jiang, Aimin Yang. A Chinese Spell Checking Framework Based on Reverse Contrastive Learning. Journal of Computer Science and Technology. 2025. <b>(中科院SCI 3区, CCF B类期刊)</b>"
+year: "2026"
+citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

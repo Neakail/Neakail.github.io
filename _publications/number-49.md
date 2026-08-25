@@ -1,7 +1,7 @@
 ---
-title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
+title: "A Contrastive News Recommendation Framework Based on Curriculum Learning"
 permalink: "/publications/number-49"
-year: "2024"
-citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "Xingran Zhou, <b>Nankai Lin</b>, Weixiong Zheng, Dong Zhou, Aimin Yang. A Contrastive News Recommendation Framework Based on Curriculum Learning. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
+title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
 permalink: "/publications/number-45"
-year: "2024"
-citation: "Junheng He, <b>Nankai Lin</b>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+year: "2025"
+citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b>Nankai Lin</b>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. <b>(中科院SCI 1区, 通讯作者)</b>"
 ---
 

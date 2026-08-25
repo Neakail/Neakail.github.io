@@ -1,7 +1,7 @@
 ---
-title: "Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition"
+title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
 permalink: "/publications/number-68"
-year: "2021"
-citation: "Yingwen Fu, <b>Nankai Lin</b>, Shengyi Jiang. Towards Corpus and Model: Hierarchical Structured-Attention-based Features for Indonesian Named Entity Recognition. Journal of Intelligent & Fuzzy Systems. 2021. <b>(中科院SCI 4区)</b>"
+year: "2023"
+citation: "Haoyuan Bu, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

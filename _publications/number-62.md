@@ -1,7 +1,7 @@
 ---
-title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
+title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
 permalink: "/publications/number-62"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

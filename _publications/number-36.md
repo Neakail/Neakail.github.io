@@ -1,7 +1,7 @@
 ---
-title: "A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction"
+title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
 permalink: "/publications/number-36"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Meiyu Zeng, Wentao Huang, Shengyi Jiang, Lixian Xiao, Aimin Yang. A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b>Nankai Lin</b>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

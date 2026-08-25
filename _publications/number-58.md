@@ -1,7 +1,7 @@
 ---
-title: "Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model"
+title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
 permalink: "/publications/number-58"
-year: "2023"
-citation: "Haoyuan Bu, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. Towards Malay Abbreviation Disambiguation Corpus and Unsupervised Model. International Conference on Natural Language Processing and Chinese Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2024"
+citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

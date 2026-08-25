@@ -1,7 +1,7 @@
 ---
-title: "Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection"
+title: "Do Romanized Scripts Influence Cross-Lingual Backdoor Attacks? Evidence from Adapter-Based Multilingual Transfer"
 permalink: "/publications/number-02"
 year: "2026"
-citation: "Zhuowei Wang, Canyu Chen, Xingming Liao, Hong Li, <b>Nankai Lin</b>, Xin Chen. Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection. IEEE International Conference on Multimedia& Expo. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Yuying Li, <b>Nankai Lin</b>, Chao Liang, Siting Lin, Xinfeng Liao, Lianxi Wang. Do Romanized Scripts Influence Cross-Lingual Backdoor Attacks? Evidence from Adapter-Based Multilingual Transfer. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

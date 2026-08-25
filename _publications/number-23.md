@@ -1,7 +1,7 @@
 ---
-title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
+title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
 permalink: "/publications/number-23"
-year: "2025"
-citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
+year: "2026"
+citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
 ---
 

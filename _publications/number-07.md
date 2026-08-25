@@ -1,7 +1,7 @@
 ---
-title: "基于混合码提示学习的跨语言假新闻检测框架"
+title: "MULM: Multilingual LoRA Backdoor Defense via Multi-View Drift Mining"
 permalink: "/publications/number-07"
 year: "2026"
-citation: "<b>林楠铠</b>, 曾美谕, 武洪艳, 彭儒, 蒋盛益, 王连喜, 阳爱民. 基于混合码提示学习的跨语言假新闻检测框架. 中文信息学报. 2026. <b>(CCF B类期刊)</b>"
+citation: "Lianxi Wang, Yuying Li, Chao Liang, Jiahuan Yang, Xinfeng Liao, <b>Nankai Lin</b>. MULM: Multilingual LoRA Backdoor Defense via Multi-View Drift Mining. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

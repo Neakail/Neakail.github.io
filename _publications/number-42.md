@@ -1,7 +1,7 @@
 ---
-title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
+title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
 permalink: "/publications/number-42"
-year: "2024"
-citation: "Guanqiu Qin, <b>Nankai Lin</b>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
+year: "2025"
+citation: "Zhijin Chen, <b>Nankai Lin</b>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
 ---
 

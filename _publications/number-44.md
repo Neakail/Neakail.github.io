@@ -1,7 +1,7 @@
 ---
-title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
+title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
 permalink: "/publications/number-44"
-year: "2024"
-citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
+year: "2025"
+citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
+title: "IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation"
 permalink: "/publications/number-13"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
+citation: "<b>Nankai Lin</b>, Bowen Ruan, Haoyuan Bu, Shengyi Jiang, Xinmeng Zhang, Lianxi Wang. IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation. Intelligent Data Analysis. 2026. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

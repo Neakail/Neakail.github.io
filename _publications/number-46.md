@@ -1,7 +1,7 @@
 ---
-title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
+title: "A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction"
 permalink: "/publications/number-46"
-year: "2024"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. <b>(CCF B类会议, Findings)</b>"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Meiyu Zeng, Wentao Huang, Shengyi Jiang, Lixian Xiao, Aimin Yang. A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

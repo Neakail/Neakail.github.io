@@ -1,7 +1,7 @@
 ---
-title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
+title: "MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments"
 permalink: "/publications/number-08"
 year: "2026"
-citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Xingming Liao, Ning Chen, Muying Shu, Yunpeng Yin, Peijian Zeng, Zhuowei Wang, <b>Nankai Lin</b>, Lianglun Cheng. MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments. ACM Multimedia. 2026. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

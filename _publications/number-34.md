@@ -1,7 +1,7 @@
 ---
-title: "GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion"
+title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
 permalink: "/publications/number-34"
 year: "2025"
-citation: "Dong Zhou, Qiang Ouyang, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. GS2F: Multimodal Fake News Detection utilizing Graph Structure and Guided Semantic Fusion. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
 ---
 

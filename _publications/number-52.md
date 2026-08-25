@@ -1,7 +1,7 @@
 ---
-title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
+title: "Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction"
 permalink: "/publications/number-52"
 year: "2024"
-citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Guanqiu Qin, <b>Nankai Lin</b>, Menglan Shen, Qifeng Bai, Dong Zhou, Aimin Yang. Global Information Enhancement and Subgraph-Level Weakly Contrastive Learning for Lightweight Weakly Supervised Document-Level Event Extraction. Expert Systems with Applications. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

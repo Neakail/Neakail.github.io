@@ -1,7 +1,7 @@
 ---
-title: "Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation"
+title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
 permalink: "/publications/number-32"
 year: "2025"
-citation: "Zhijin Chen, <b>Nankai Lin</b>, Aimin Yang, Dong Zhou. Filter-enhanced Contrast Variational Autoencoders for Sequential Recommendation. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

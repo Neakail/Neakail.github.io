@@ -1,7 +1,7 @@
 ---
-title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
+title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
 permalink: "/publications/number-54"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
 ---
 

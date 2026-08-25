@@ -1,7 +1,7 @@
 ---
-title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
+title: "An Interpretability Framework for Similar Case Matching"
 permalink: "/publications/number-24"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

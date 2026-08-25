@@ -1,7 +1,7 @@
 ---
-title: "Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model"
+title: "ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation"
 permalink: "/publications/number-61"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Yiying Zhu, Xiaonan Cai, Shengyi Jiang, Yusha Zhang. Exploring Chinese Lexical Differences Based on Synergetic-linguistic Model. Digital Scholarship in the Humanities. 2022. <b>(SSCI 3区)</b>"
+year: "2024"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Junheng He, Zhijin Chen, Dong Zhou and Aimin Yang. ADSE: Adversarial Debiasing Framework Based on Sinusoidal Embedding for Sequential Recommendation. IEEE International Conference on Web Services. 2024. <b>(CCF B类会议)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publications/number-76"
-year: "2020"
-citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
+year: "2022"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

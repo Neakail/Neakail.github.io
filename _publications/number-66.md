@@ -1,7 +1,7 @@
 ---
-title: "LaoPLM: Pre-trained Language Models for Lao"
+title: "Self-training with Double Judgers for Low-Resource Named Entity Recognition"
 permalink: "/publications/number-66"
-year: "2022"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
+year: "2023"
+citation: "Yiwen Fu, <b>Nankai Lin</b>, Xiaohui Yu, Shengyi Jiang. Self-training with Double Judgers for Low-Resource Named Entity Recognition. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

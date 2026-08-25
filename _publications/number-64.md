@@ -1,7 +1,7 @@
 ---
-title: "A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems"
+title: "A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing"
 permalink: "/publications/number-64"
-year: "2022"
-citation: "Aimin Yang, Qifeng Bai, Jigang Wang, <b>Nankai Lin</b>, Xiaotian Lin, Guanqiu Qin, Junheng He. A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems. CCF International Conference on Natural Language Processing and Chinese Computing. 2022. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2023"
+citation: "<b>Nankai Lin</b>, Xiaotian Lin, Yiwen Fu, Shengyi Jiang, Lianxi Wang. A Chinese GEC Model Based on Grammatical Generalization and Parameter Sharing. The Computer Journal. 2023. <b>(中科院4区, CCF B类期刊)</b>"
 ---
 

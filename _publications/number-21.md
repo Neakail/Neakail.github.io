@@ -1,7 +1,7 @@
 ---
-title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
+title: "多语种文本纠错技术研究现状与进展综述"
 permalink: "/publications/number-21"
-year: "2025"
-citation: "Hongbin Zhang, Kezhou Chen, <b>Nankai Lin</b>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. <b>(CCF A类会议)</b>"
+year: "2026"
+citation: "<b>林楠铠</b>, 韩祎童, 阮博文, 武洪艳, 蒋盛益, 王连喜. 多语种文本纠错技术研究现状与进展综述. 计算机科学与探索. 2026. <b>(CCF B类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publications/number-55"
-year: "2023"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Xiaotian Lin, Dong Zhou, Aimin Yang, Shengyi Jiang. CL-XABSA: Contrastive Learning for Cross-lingual Aspect-based Sentiment Analysis. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2023. <b>(中科院SCI 2区, CCF B类期刊)</b>"
+year: "2024"
+citation: "Junheng He, <b>Nankai Lin</b>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

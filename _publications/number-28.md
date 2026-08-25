@@ -1,7 +1,7 @@
 ---
-title: "WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification"
+title: "A Chinese Spell Checking Framework Based on Reverse Contrastive Learning"
 permalink: "/publications/number-28"
 year: "2025"
-citation: "Wentao Huang, Zeyong Long, Dong Zhou, Zhijin Chen, Yongmei Zhou, <b>Nankai Lin</b>, Aimin Yang. WATER: A Two-stage In-context Learning Debiasing Framework for Multilingual Text Classification. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Sihui Fu, Shengyi Jiang, Aimin Yang. A Chinese Spell Checking Framework Based on Reverse Contrastive Learning. Journal of Computer Science and Technology. 2025. <b>(中科院SCI 3区, CCF B类期刊)</b>"
 ---
 

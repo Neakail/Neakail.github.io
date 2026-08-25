@@ -1,7 +1,7 @@
 ---
-title: "MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures"
+title: "MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks"
 permalink: "/publications/number-48"
-year: "2024"
-citation: "Jiajun Fang, Wentao Huang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>. MLCL: A Framework for Reducing Language Imbalance in Sino-Tibetan Languages through Adapter Structures. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "Peijian Zeng, <b>Nankai Lin</b>, Shun Li, Jianghao Lin, Aimin Yang. MODAL-DRN-BL: A Framework for Modal Analysis based on Dilated Residual Broad Learning Networks. Journal of Computing and Information Science in Engineering. 2025. <b>(中科院SCI 4区)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "多模态情感分析：研究全景、技术演进与生成式重构"
+title: "ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis"
 permalink: "/publications/number-06"
 year: "2026"
-citation: "王连喜, 廖信峰, 陈宣齐，黄华煜，<b>林楠铠</b>，蒋盛益. 多模态情感分析：研究全景、技术演进与生成式重构. 计算机学报. 2026. <b>(CCF A类期刊)</b>"
+citation: "<b>Nankai Lin</b>, Yang Xining, Bowen Ruan, Hongyan Wu, Lianxi Wang, Xinfeng Liao, Shengyi Jiang. ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议)</b>"
 ---
 

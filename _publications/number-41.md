@@ -1,7 +1,7 @@
 ---
-title: "Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models"
+title: "Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning"
 permalink: "/publications/number-41"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Peijian Zeng, Weixiong Zheng, Shengyi Jiang, Dong Zhou, Aimin Yang. Rethinking Vocabulary Augmentation: Addressing the Challenges of Low-Resource Languages in Multilingual Models. International Conference on Computational Linguistics. 2025. <b>(CCF B类会议)</b>"
+citation: "<b>Nankai Lin</b>, Hongyan Wu, Aimin Yang, Lianxi Wang. Emotional Classification in COVID-19: Analyzing Chinese Microblogs with Domain-adapted Contrastive learning. Applied Soft Computing. 2025. <b>(中科院SCI 1区)</b>"
 ---
 

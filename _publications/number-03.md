@@ -1,7 +1,7 @@
 ---
-title: "IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation"
+title: "How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification"
 permalink: "/publications/number-03"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Bowen Ruan, Haoyuan Bu, Shengyi Jiang, Xinmeng Zhang, Lianxi Wang. IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation. Intelligent Data Analysis. 2026. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+citation: "Lianxi Wang, Siting Lin, Chao Liang, Yuying Li, Xinfeng Liao, <b>Nankai Lin</b>. How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

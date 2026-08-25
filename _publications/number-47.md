@@ -1,7 +1,7 @@
 ---
-title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
+title: "Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction"
 permalink: "/publications/number-47"
-year: "2024"
-citation: "Dong Zhou, Binli Zeng, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Hongbin Zhang, Menglan Shen, Yu Wang, Shengyi Jiang, Aimin Yang. Corpus and Unsupervised Benchmark: Towards Tagalog Grammatical Error Correction. Computer Speech & Language. 2025. <b>(中科院SCI 3区, CCF C类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation"
+title: "ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness"
 permalink: "/publications/number-59"
-year: "2023"
-citation: "Jigang Wang, Aimin Yang, Dong Zhou, <b>Nankai Lin</b>, Zepeng Wang and Weifeng Huang. Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation. International Conference on Intelligent Computing. 2023. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2024"
+citation: "Peijian Zeng, Weixiong Zheng, Hongyan Wu, <b>Nankai Lin</b>, Aimin Yang, Shengyi Jiang. ACTOR: Advancing Argument Components Identification through In-Context Learning and Proximity Information Awareness. CCF International Conference on Natural Language Processing and Chinese Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

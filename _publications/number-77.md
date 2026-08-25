@@ -1,7 +1,7 @@
 ---
-title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+title: "Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing"
 permalink: "/publications/number-77"
-year: "2020"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. <b>(CCF C类会议)</b>"
+year: "2021"
+citation: "Kengtao Zheng, <b>Nankai Lin</b>, Shengyi Jiang. Unsupervised Character Embedding Correction and Candidate Word Denoising, IEEE/ACM Transactions on Audio, Speech and Language Processing. 2021. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

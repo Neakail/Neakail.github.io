@@ -1,7 +1,7 @@
 ---
-title: "Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction"
+title: "基于上下文学习的多语言文本分类方法"
 permalink: "/publications/number-26"
 year: "2025"
-citation: "Shengyi Jiang, Yuting Su, Xuming Li, <b>Nankai Lin</b>, Lixian Xiao, Lianxi Wang. Unraveling the Efficacy of In-Context Learning in Indonesian Grammatical Error Correction. International Conference on Computer Supported Cooperative Work in Design. 2025. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction"
+title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
 permalink: "/publications/number-30"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Yingwen Fu, Xiaotian Lin, Ziyu Yang, Shengyi Jiang. A New Evaluation Method: Evaluation Data and Metrics for Chinese Grammar Error Correction. Language Resources and Evaluation. 2025. <b>(中科院SCI 4区)</b>"
+citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

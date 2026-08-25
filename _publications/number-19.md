@@ -1,7 +1,7 @@
 ---
-title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
+title: "CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning"
 permalink: "/publications/number-19"
-year: "2025"
-citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
+year: "2026"
+citation: "Xinmeng Zhang, Caiyun Xie, Xining Yang, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 
