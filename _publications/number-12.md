@@ -1,7 +1,7 @@
 ---
-title: "Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection"
+title: "IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation"
 permalink: "/publications/number-12"
 year: "2026"
-citation: "Zhuowei Wang, Canyu Chen, Xingming Liao, Hong Li, <b>Nankai Lin</b>, Xin Chen. Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection. IEEE International Conference on Multimedia& Expo. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Bowen Ruan, Haoyuan Bu, Shengyi Jiang, Xinmeng Zhang, Lianxi Wang. IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation. Intelligent Data Analysis. 2026. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Language Models for Tagalog with Multi-source data"
+title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
 permalink: "/publications/number-85"
-year: "2021"
-citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b>Nankai Lin</b>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+year: "2020"
+citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
+title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
 permalink: "/publications/number-31"
 year: "2025"
-citation: "Hongbin Zhang, Kezhou Chen, <b>Nankai Lin</b>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. <b>(CCF A类会议)</b>"
+citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

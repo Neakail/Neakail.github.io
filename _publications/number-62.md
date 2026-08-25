@@ -1,7 +1,7 @@
 ---
-title: "From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning"
+title: "GPF: Generative Prediction Fusion for Multi-Label Emotion Classification"
 permalink: "/publications/number-62"
 year: "2024"
-citation: "Weixiong Zheng, Aimin Yang, <b>Nankai Lin</b>, Dong Zhou. From Bias to Fairness: The Role of Domain-Specific Knowledge and Efficient Fine-Tuning. International Conference on Intelligent Computing. 2024. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Shiqiao Huang, Weiwen Zhang, <b>Nankai Lin</b>, Mianshen Xu. GPF: Generative Prediction Fusion for Multi-Label Emotion Classification. International Conference on Computer Supported Cooperative Work in Design. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

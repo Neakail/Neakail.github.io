@@ -1,7 +1,7 @@
 ---
-title: "基于上下文学习的多语言文本分类方法"
+title: "Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework"
 permalink: "/publications/number-26"
 year: "2025"
-citation: "<b>林楠铠</b>, 阮博文, 王连喜. 基于上下文学习的多语言文本分类方法. 数据分析与知识发现. 2025. <b>(CSSCI)</b>"
+citation: "Weizhong Liu, Qifeng Bai, Wentao Huang, Feiyan Pang, <b>Nankai Lin</b>, Aimin Yang. Multi-Scenario CTR Prediction via Enhanced Scene-Aware Transformer Framework. Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊, 通讯作者)</b>"
 ---
 

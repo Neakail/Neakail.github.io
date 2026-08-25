@@ -1,7 +1,7 @@
 ---
-title: "涉华信息资源归集与舆情分析框架构建, 情报杂志"
+title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
 permalink: "/publications/number-86"
 year: "2020"
-citation: "王连喜, 甘穗福, <b>林楠铠</b>, 蒋盛益. 涉华信息资源归集与舆情分析框架构建, 情报杂志. 2020. <b>(北大核心, CSSCI)</b>"
+citation: "<b>Nankai Lin</b>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. <b>(CCF C类会议)</b>"
 ---
 

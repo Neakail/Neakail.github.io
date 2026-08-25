@@ -1,7 +1,7 @@
 ---
-title: "Model and Evaluation: Towards Fairness in Multilingual Text Classification"
+title: "An Interpretability Framework for Similar Case Matching"
 permalink: "/publications/number-23"
-year: "2026"
-citation: "<b>Nankai Lin</b>, Junheng He, Zhenghang Tang, Jiajun Fang, Dong Zhou, Aimin Yang. Model and Evaluation: Towards Fairness in Multilingual Text Classification. International Journal of Machine Learning and Cybernetics. 2026. <b>(中科院SCI 4区)</b>"
+year: "2025"
+citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

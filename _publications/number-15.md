@@ -1,7 +1,7 @@
 ---
-title: "Fusing Representation Spaces: A Projected-Fusion Approach to Contrastive Learning"
+title: "多模态情感分析：研究全景、技术演进与生成式重构"
 permalink: "/publications/number-15"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Kezhou Chen, Haonan Liu, Hongbin Zhang, Shengyi Jiang, Aimin Yang. Fusing Representation Spaces: A Projected-Fusion Approach to Contrastive Learning. Information Fusion. 2026. <b>(中科院SCI 1区)</b>"
+citation: "王连喜, 廖信峰, 陈宣齐，黄华煜，<b>林楠铠</b>，蒋盛益. 多模态情感分析：研究全景、技术演进与生成式重构. 计算机学报. 2026. <b>(CCF A类期刊)</b>"
 ---
 

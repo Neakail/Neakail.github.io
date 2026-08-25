@@ -1,7 +1,7 @@
 ---
-title: "多语种文本纠错技术研究现状与进展综述"
+title: "An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago"
 permalink: "/publications/number-21"
 year: "2026"
-citation: "<b>林楠铠</b>, 韩祎童, 阮博文, 武洪艳, 蒋盛益, 王连喜. 多语种文本纠错技术研究现状与进展综述. 计算机科学与探索. 2026. <b>(CCF B类期刊)</b>"
+citation: "<b>Nankai Lin</b>, Sihui Fu, Hongyan Wu, Aimin Yang, Shengyi Jiang. An Analysis of the Differences Among Regional Varieties of Chinese in Malay Archipelago. Chinese Language and Discourse. 2026. <b>(中科院SCI 4区)</b>"
 ---
 

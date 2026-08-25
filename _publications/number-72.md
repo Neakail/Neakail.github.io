@@ -1,7 +1,7 @@
 ---
-title: "Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning"
+title: "Cross-Lingual Named Entity Recognition for Heterogenous Languages"
 permalink: "/publications/number-72"
 year: "2022"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Xiaotian Lin, Lianxi Wang. Multi-label Emotion Classification Model Based on Adversarial Multi-Task Learning. Information Processing & Management. 2022. <b>(中科院SCI 1区, CCF B类期刊)</b>"
+citation: "Yiwen Fu, <b>Nankai Lin</b>, Boyu Chen, Ziyu Yang, Shengyi Jiang. Cross-Lingual Named Entity Recognition for Heterogenous Languages. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2022. <b>(中科院SCI 2区, CCF B类期刊)</b>"
 ---
 

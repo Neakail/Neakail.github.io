@@ -1,7 +1,7 @@
 ---
-title: "IndoCL: Benchmarking Indonesian Language Development Assessment"
+title: "HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization"
 permalink: "/publications/number-56"
 year: "2024"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Weixiong Zheng, Xingming Liao, Shengyi Jiang, Aimin Yang, Lixian Xiao. IndoCL: Benchmarking Indonesian Language Development Assessment. Conference on Empirical Methods in Natural Language Processing. 2024. <b>(CCF B类会议, Findings)</b>"
+citation: "Dong Zhou, Binli Zeng, <b>Nankai Lin</b>, Yongmei Zhou, Aimin Yang. 	HiRAG: A Historical Information-Driven Retrieval-Augmented Generation Framework for Background Summarization. Asian Conference on Machine Learning. 2024. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

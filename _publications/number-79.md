@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Indonesian Grammar Error Correction"
+title: "Pre-trained Models and Evaluation Data for the Khmer Language"
 permalink: "/publications/number-79"
 year: "2021"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Xiaotian Lin, Kanoksak Wattanachote, Shengyi Jiang. A Framework for Indonesian Grammar Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2021. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+citation: "Shengyi Jiang, Sihui Fu, <b>Nankai Lin</b>, Yingwen Fu. Pre-trained Models and Evaluation Data for the Khmer Language. Tsinghua Science and Technology. 2021. <b>(中科院SCI 1区, 通讯作者)</b>"
 ---
 

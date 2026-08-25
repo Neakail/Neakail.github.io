@@ -1,7 +1,7 @@
 ---
-title: "CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation"
+title: "CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning"
 permalink: "/publications/number-18"
 year: "2026"
-citation: "Zhongyu Liang, Chong Chen, <b>Nankai Lin</b>, Hongbin Zhang, Lianglun Cheng. CLG-RAG: Cross-Lingual Graph Retrieval-Augmented Generation. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Xinmeng Zhang, Caiyun Xie, Xining Yang, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

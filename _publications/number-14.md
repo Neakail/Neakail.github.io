@@ -1,7 +1,7 @@
 ---
-title: "Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring"
+title: "Fusing Representation Spaces: A Projected-Fusion Approach to Contrastive Learning"
 permalink: "/publications/number-14"
 year: "2026"
-citation: "Hongyan Wu, <b>Nankai Lin</b>, Shengyi Jiang, Lianxi Wang. Advancing LLMs for Chinese Semantic Error Correction: Example Selection and Re-scoring. Expert Systems with Applications. 2026. <b>(中科院SCI 1区, CCF C类期刊, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Kezhou Chen, Haonan Liu, Hongbin Zhang, Shengyi Jiang, Aimin Yang. Fusing Representation Spaces: A Projected-Fusion Approach to Contrastive Learning. Information Fusion. 2026. <b>(中科院SCI 1区)</b>"
 ---
 

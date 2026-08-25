@@ -1,7 +1,7 @@
 ---
-title: "DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection"
+title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
 permalink: "/publications/number-29"
 year: "2025"
-citation: "Bowen Ruan, Hongyan Wu, Yitong Han, Shengyi Jiang, Lianxi Wang, <b>Nankai Lin</b>. DISCERN: Chain-of-Thought-Augmented Syntactic-based In-Context Learning for Chinese Semantic Error Detection. Data Intelligence. 2025. <b>(中科院SCI 2区, 通讯作者)</b>"
+citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

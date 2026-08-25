@@ -1,7 +1,7 @@
 ---
-title: "MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments"
+title: "基于剪枝压缩与记忆监控的轻量化内容安全检测模型"
 permalink: "/publications/number-08"
 year: "2026"
-citation: "Xingming Liao, Ning Chen, Muying Shu, Yunpeng Yin, Peijian Zeng, Zhuowei Wang, <b>Nankai Lin</b>, Lianglun Cheng. MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments. ACM Multimedia. 2026. <b>(CCF A类会议, 通讯作者)</b>"
+citation: "<b>林楠铠</b>, 张博为, 李禹莹, 代诗发, 徐臻, 王连喜*.基于剪枝压缩与记忆监控的轻量化内容安全检测模型. 数据分析与知识发现. 2026. <b>(CSSCI, CCF C)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization"
+title: "Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection"
 permalink: "/publications/number-10"
 year: "2026"
-citation: "Hongyan Wu, Zhiliang Tian*, Zhen Huang, <b>Nankai Lin</b>, Yiping Song, Zhihua Wen, Menglong Lu, Feng Liu, Dongsheng Li. LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization. IEEE Transactions on Audio, Speech and Language Processing. 2026. <b>(中科院SCI 2区, CCF B)</b>"
+citation: "Xingming Liao, Meiyu Zeng, Canyu Chen, <b>Nankai Lin</b>, Zhuowei Wang, Aimin Yang. Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection. International Conference on Multimedia Retrieval. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

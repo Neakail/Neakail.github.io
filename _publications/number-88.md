@@ -1,7 +1,7 @@
 ---
-title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
+title: "A Study on Syntactic Complexity and Text Readability of ASEAN English New"
 permalink: "/publications/number-88"
-year: "2020"
-citation: "蒋盛益, 李珊珊, 符斯慧, <b>林楠铠</b>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. <b>(CCF B类期刊)</b>"
+year: "2019"
+citation: "Yusha Zhang, <b>Nankai Lin</b>, Shengyi Jiang. A Study on Syntactic Complexity and Text Readability of ASEAN English New. International Conference on Asian Language Processing. 2019. <b>(通讯作者)</b>"
 ---
 

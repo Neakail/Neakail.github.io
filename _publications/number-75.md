@@ -1,7 +1,7 @@
 ---
-title: "A Framework for Dictionary Development Building Domain Dictionary for Legal Field"
+title: "LaoPLM: Pre-trained Language Models for Lao"
 permalink: "/publications/number-75"
 year: "2022"
-citation: "Jianying Zhu, Menglan Shen, <b>Nankai Lin</b>. A Framework for Dictionary Development Building Domain Dictionary for Legal Field. The Eleventh Chinese Lexical Semantics Workshop. 2022. <b>(通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Yingwen Fu, Ziyu Yang, Chuwei Chen, Shengyi Jiang. LaoPLM: Pre-trained Language Models for Lao. The International Conference on Language Resources and Evaluation. 2022."
 ---
 

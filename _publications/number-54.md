@@ -1,7 +1,7 @@
 ---
-title: "Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets"
+title: "Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models"
 permalink: "/publications/number-54"
 year: "2024"
-citation: "Shun Li, Peijian Zeng, <b>Nankai Lin</b>, Maohua Lu, Jianghao Lin, Aimin Yang. Topology Optimization Based on Improved DoubleU-Net Using Four Boundary Condition Datasets. Engineering Optimization. 2024. <b>(中科院SCI 3区)</b>"
+citation: "Junheng He, <b>Nankai Lin</b>, Qifeng Bai, Haoyu Liang, Dong Zhou, Aimin Yang. Towards Fair Decision: A Novel Representation Method for Debiasing Pre-trained Models. Decision Support Systems. 2024. <b>(中科院SCI 1区, CCF C类期刊)</b>"
 ---
 

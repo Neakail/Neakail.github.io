@@ -1,7 +1,7 @@
 ---
-title: "A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition"
+title: "A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction"
 permalink: "/publications/number-45"
 year: "2025"
-citation: "Hongbin Zhang, Guangyu Lin, Kezhou Chen, <b>Nankai Lin</b>, Lianglun Chen, Aimin Yang. A Joint Entity and Relation Extraction Framework for Handling Negative Samples Problems in Named Entity Recognition. Applied Soft Computing. 2025. <b>(中科院SCI 1区, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Meiyu Zeng, Wentao Huang, Shengyi Jiang, Lixian Xiao, Aimin Yang. A Simple Yet Effective Corpus Construction Framework for Indonesian Grammatical Error Correction. ACM Transactions on Asian and Low-Resource Language Information Processing. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
 ---
 

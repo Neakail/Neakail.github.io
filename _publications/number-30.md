@@ -1,7 +1,7 @@
 ---
-title: "Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics"
+title: "Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning"
 permalink: "/publications/number-30"
 year: "2025"
-citation: "Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, <b>Nankai Lin</b>, Junhao Chen, Aimin Yang, Yongmei Zhou. Jailbreaking? One Step Is Enough! Annual Meeting of the Association for Computational Linguistics. 2025. <b>(CCF A类会议, 通讯作者)</b>"
+citation: "Hongbin Zhang, Kezhou Chen, <b>Nankai Lin</b>, Zhifeng Hao, Aimin Yang, Zhengming Chen. Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning. International Joint Conference on Artificial Intelligence. 2025. <b>(CCF A类会议)</b>"
 ---
 

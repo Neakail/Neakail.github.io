@@ -1,7 +1,7 @@
 ---
-title: "Pre-trained Models and Evaluation Data for the Myanmar Language"
+title: "Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago"
 permalink: "/publications/number-81"
 year: "2021"
-citation: "Shengyi Jiang, Xiuwen Huang, Xiaonan Cai, <b>Nankai Lin</b>. Pre-trained Models and Evaluation Data for the Myanmar Language. International Conference on Neural Information Processing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Shengyi Jiang, Yingwen Fu, <b>Nankai Lin</b>. Construction and Evaluation of Chinese Word Segmentation Datasets in Malay Archipelago. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

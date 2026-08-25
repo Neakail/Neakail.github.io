@@ -1,7 +1,7 @@
 ---
-title: "VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction"
+title: "ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark"
 permalink: "/publications/number-04"
 year: "2026"
-citation: "Yitong Han, <b>Nankai Lin</b>, Juan Luo, Hongyan Wu, Lianxi Wang, Shengyi Jiang. VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Bowen Ruan, Yitong Han, Hongyan Wu, Lianxi Wang, Jie Li, Shengyi Jiang, <b>Nankai Lin</b>. ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark. International Conference on Natural Language Processing and Chinese Computing. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

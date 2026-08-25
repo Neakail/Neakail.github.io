@@ -1,7 +1,7 @@
 ---
-title: "ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark"
+title: "ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis"
 permalink: "/publications/number-05"
 year: "2026"
-citation: "Bowen Ruan, Yitong Han, Hongyan Wu, Lianxi Wang, Jie Li, Shengyi Jiang, <b>Nankai Lin</b>. ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark. International Conference on Natural Language Processing and Chinese Computing. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Yang Xining, Bowen Ruan, Hongyan Wu, Lianxi Wang, Xinfeng Liao, Shengyi Jiang. ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议)</b>"
 ---
 

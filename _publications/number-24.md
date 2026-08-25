@@ -1,7 +1,7 @@
 ---
-title: "An Interpretability Framework for Similar Case Matching"
+title: "基于分子结构与课程学习的跨模态分子检索"
 permalink: "/publications/number-24"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Haonan Liu, Jiajun Fang, Dong Zhou, Aimin Yang. An Interpretability Framework for Similar Case Matching. Intelligent Data Analysis. 2025. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+citation: "<b>林楠铠</b>, 伍奕倩, 黄丽霓, 武洪艳, 徐臻, 王连喜. 基于分子结构与课程学习的跨模态分子检索. 计算机科学与探索. 2025. <b>(CCF B类期刊)</b>"
 ---
 

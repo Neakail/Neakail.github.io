@@ -1,7 +1,7 @@
 ---
-title: "Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset"
+title: "印尼语、马来语自然语言处理研究综述, 模式识别与人工智能"
 permalink: "/publications/number-87"
 year: "2020"
-citation: "<b>Nankai Lin</b>, Boyu Chen, Sihui Fu, Xiaotian Lin, Shengyi Jiang. Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset. CCF International Conference on Natural Language Processing and Chinese Computing. 2020. <b>(CCF C类会议)</b>"
+citation: "蒋盛益, 李珊珊, 符斯慧, <b>林楠铠</b>. 印尼语、马来语自然语言处理研究综述, 模式识别与人工智能. 2020. <b>(CCF B类期刊)</b>"
 ---
 

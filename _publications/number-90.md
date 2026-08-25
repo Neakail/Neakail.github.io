@@ -1,7 +1,7 @@
 ---
-title: "Exploring Letter’s Differences between Partial Austronesian Family Language and English"
+title: "汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报"
 permalink: "/publications/number-90"
 year: "2019"
-citation: "<b>Nankai Lin</b>, Sihui Fu, Jiawen Huang, Shengyi Jiang. Exploring Letter’s Differences between Partial Austronesian Family Language and English. International Conference on Asian Language Processing. 2019."
+citation: "郑铿涛, <b>林楠铠</b>, 付颖雯, 蒋盛益. 汉语-印尼语平行语料自动对齐方法研究, 广西师范大学学报. 2019. <b>(北大核心)</b>"
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection"
+title: "Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection"
 permalink: "/publications/number-11"
 year: "2026"
-citation: "Xingming Liao, Meiyu Zeng, Canyu Chen, <b>Nankai Lin</b>, Zhuowei Wang, Aimin Yang. Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection. International Conference on Multimedia Retrieval. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Zhuowei Wang, Canyu Chen, Xingming Liao, Hong Li, <b>Nankai Lin</b>, Xin Chen. Ship30: Benchmarking Fine-grained Out-of-distribution Ship Detection. IEEE International Conference on Multimedia& Expo. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

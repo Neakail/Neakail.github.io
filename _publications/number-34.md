@@ -1,7 +1,7 @@
 ---
-title: "A Novel Curriculum Learning Framework for Multi-label Emotion Classification"
+title: "Ensuring Accuracy and Fairness: A De-biasing Framework for Sequential Recommendation"
 permalink: "/publications/number-34"
 year: "2025"
-citation: "<b>Nankai Lin</b>, Hongyan Wu, Peijian Zeng, Qifeng Bai, Dong Zhou, Aimin Yang. A Novel Curriculum Learning Framework for Multi-label Emotion Classification. The Computer Journal. 2025. <b>(中科院SCI 4区, CCF B类期刊)</b>"
+citation: "Qifeng Bai, <b>Nankai Lin</b>, Meiyu Zeng, Guanqiu Qin, Dong Zhou, Aimin Yang. Ensuring Accuracy and Fairness: A De-biasing Framework for Sequential Recommendation. User Modeling and User-Adapted Interaction. 2025. <b>(中科院SCI 3区, CCF B类期刊, 通讯作者)</b>"
 ---
 

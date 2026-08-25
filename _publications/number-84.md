@@ -1,7 +1,7 @@
 ---
-title: "Multilingual China-related News Identification Framework Based on Multiple Strategies"
+title: "Pre-trained Language Models for Tagalog with Multi-source data"
 permalink: "/publications/number-84"
 year: "2021"
-citation: "Lianxi, Wang, Xiaotian Lin, <b>Nankai Lin</b>. Multilingual China-related News Identification Framework Based on Multiple Strategies. The Tenth Chinese Lexical Semantics Workshop. 2021. <b>(通讯作者)</b>"
+citation: "Shengyi Jiang, Yingwen Fu, Xiaotian Lin, <b>Nankai Lin</b>. Pre-trained Language Models for Tagalog with Multi-source data. CCF International Conference on Natural Language Processing and Chinese Computing. 2021. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

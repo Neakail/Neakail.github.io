@@ -1,7 +1,7 @@
 ---
-title: "CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning"
+title: "EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data"
 permalink: "/publications/number-19"
 year: "2026"
-citation: "Xinmeng Zhang, Caiyun Xie, Xining Yang, <b>Nankai Lin</b>, Lianxi Wang, Shengyi Jiang. CLSSA: Enhancing Structured Sentiment Analysis via Curriculum Learning. International Conference on Computer Supported Cooperative Work in Design. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Lianxi Wang, Xuming Li, Yuting Su, Songxi Xu, Jiahuan Yang, <b>Nankai Lin</b>, Shengyi Jiang. EDPOTrans: Enhanced Direct Preference Optimization for Machine Translation between Low-Resource Language and Chinese with Limited Monolingual Data. International Conference on Acoustics, Speech, and Signal Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

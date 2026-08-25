@@ -1,7 +1,7 @@
 ---
-title: "JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm"
+title: "DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning"
 permalink: "/publications/number-32"
 year: "2025"
-citation: "Ziling Dai, <b>Nankai Lin</b>. JUDICIOUS: Evaluating Robustness of Large Language Models in the Legal Realm. Annual Meeting of the Cognitive Science Society. 2025. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Haoyu Liang, Junheng He, Jianghao Lin, <b>Nankai Lin</b>, Dong Zhou, Aimin Yang. DMCP: A Novel Debiasing Method Based on Contrastive Learning and Prompt Learning. International Conference on Big Data Analytics. 2025. <b>(通讯作者)</b>"
 ---
 

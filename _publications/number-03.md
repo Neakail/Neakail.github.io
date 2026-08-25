@@ -1,7 +1,7 @@
 ---
-title: "How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification"
+title: "VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction"
 permalink: "/publications/number-03"
 year: "2026"
-citation: "Lianxi Wang, Siting Lin, Chao Liang, Yuying Li, Xinfeng Liao, <b>Nankai Lin</b>. How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Yitong Han, <b>Nankai Lin</b>, Juan Luo, Hongyan Wu, Lianxi Wang, Shengyi Jiang. VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 
