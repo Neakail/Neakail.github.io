@@ -1,7 +1,7 @@
 ---
-title: "VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction"
+title: "TwinAlign: Dual Alignment Framework for Motor Imagery Classification"
 permalink: "/publications/number-03"
 year: "2026"
-citation: "Yitong Han, <b>Nankai Lin</b>, Juan Luo, Hongyan Wu, Lianxi Wang, Shengyi Jiang. VAA-CSEC: Vote-guided Advantage Allocation for Chinese Semantic Error Correction. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Kejin Lin, Jieyi Ma, Hongyan Wu, Shengyi Jiang, Zhong Ouyang, Zhifeng Hao, Zhengming Chen. TwinAlign: Dual Alignment Framework for Motor Imagery Classification. IEEE International Conference on Bioinformatics and Biomedicine. 2026. <b>(CCF B类会议)</b>"
 ---
 

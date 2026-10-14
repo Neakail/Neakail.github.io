@@ -1,7 +1,7 @@
 ---
-title: "基于剪枝压缩与记忆监控的轻量化内容安全检测模型"
+title: "ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis"
 permalink: "/publications/number-08"
 year: "2026"
-citation: "<b>林楠铠</b>, 张博为, 李禹莹, 代诗发, 徐臻, 王连喜.基于剪枝压缩与记忆监控的轻量化内容安全检测模型. 数据分析与知识发现. 2026. <b>(CSSCI, CCF C)</b>"
+citation: "<b>Nankai Lin</b>, Yang Xining, Bowen Ruan, Hongyan Wu, Lianxi Wang, Xinfeng Liao, Shengyi Jiang. ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议)</b>"
 ---
 

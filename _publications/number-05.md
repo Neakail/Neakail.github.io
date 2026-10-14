@@ -1,7 +1,7 @@
 ---
-title: "ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis"
+title: "How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification"
 permalink: "/publications/number-05"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Yang Xining, Bowen Ruan, Hongyan Wu, Lianxi Wang, Xinfeng Liao, Shengyi Jiang. ECMSA: Entropy-Constrained Dual Alignment for Multimodal Sentiment Analysis. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议)</b>"
+citation: "Lianxi Wang, Siting Lin, Chao Liang, Yuying Li, Xinfeng Liao, <b>Nankai Lin</b>. How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

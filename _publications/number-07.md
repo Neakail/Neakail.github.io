@@ -1,7 +1,7 @@
 ---
-title: "MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments"
+title: "ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark"
 permalink: "/publications/number-07"
 year: "2026"
-citation: "Xingming Liao, Ning Chen, Muying Shu, Yunpeng Yin, Peijian Zeng, Zhuowei Wang, <b>Nankai Lin</b>, Lianglun Cheng. MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments. ACM Multimedia. 2026. <b>(CCF A类会议, 通讯作者)</b>"
+citation: "Bowen Ruan, Yitong Han, Hongyan Wu, Lianxi Wang, Jie Li, Shengyi Jiang, <b>Nankai Lin</b>. ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark. International Conference on Natural Language Processing and Chinese Computing. 2026. <b>(CCF C类会议, 通讯作者)</b>"
 ---
 

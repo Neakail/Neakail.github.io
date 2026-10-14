@@ -1,7 +1,7 @@
 ---
-title: "ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark"
+title: "Overview of IMLIP 2025 Shared Task on Low-resource Language Spelling Correction"
 permalink: "/publications/number-04"
 year: "2026"
-citation: "Bowen Ruan, Yitong Han, Hongyan Wu, Lianxi Wang, Jie Li, Shengyi Jiang, <b>Nankai Lin</b>. ConfusEval: A Chinese Language Vocabulary Understanding Evaluation Benchmark. International Conference on Natural Language Processing and Chinese Computing. 2026. <b>(CCF C类会议, 通讯作者)</b>"
+citation: "Shengyi Jiang, Haonan Fang, <b>Nankai Lin</b>, Lianxi Wang. Overview of IMLIP 2025 Shared Task on Low-resource Language Spelling Correction. Data Intelligence. 2026. <b>(中科院SCI 2区, 通讯作者)</b>"
 ---
 

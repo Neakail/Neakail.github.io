@@ -1,7 +1,7 @@
 ---
-title: "Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection"
+title: "MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments"
 permalink: "/publications/number-10"
 year: "2026"
-citation: "Xingming Liao, Meiyu Zeng, Canyu Chen, <b>Nankai Lin</b>, Zhuowei Wang, Aimin Yang. Chameleon: On the Scene Diversity and Domain Variety of AI-Generated Videos Detection. International Conference on Multimedia Retrieval. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "Xingming Liao, Ning Chen, Muying Shu, Yunpeng Yin, Peijian Zeng, Zhuowei Wang, <b>Nankai Lin</b>, Lianglun Cheng. MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments. ACM Multimedia. 2026. <b>(CCF A类会议, 通讯作者)</b>"
 ---
 

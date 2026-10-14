@@ -1,7 +1,7 @@
 ---
-title: "How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification"
+title: "SEAHF: Structural Entropy Awareness-Enhanced Hypergraph Fusion for EEG-Audio-Visual Multimodal Emotion Recognition"
 permalink: "/publications/number-02"
 year: "2026"
-citation: "Lianxi Wang, Siting Lin, Chao Liang, Yuying Li, Xinfeng Liao, <b>Nankai Lin</b>. How to Solve Noise and Hard Samples: Filtering and Difficulty-adaptive Augmentation for Fine-grained Negative Emotion Classification. Conference on Empirical Methods in Natural Language Processing. 2026. <b>(CCF B类会议, 通讯作者)</b>"
+citation: "<b>Nankai Lin</b>, Juan Luo, Siying Lei, Hongyan Wu, Lianxi Wang, Jiafu Zhong, Zhifeng Hao, Zhengming Chen. SEAHF: Structural Entropy Awareness-Enhanced Hypergraph Fusion for EEG-Audio-Visual Multimodal Emotion Recognition. IEEE International Conference on Bioinformatics and Biomedicine. 2026. <b>(CCF B类会议)</b>"
 ---
 

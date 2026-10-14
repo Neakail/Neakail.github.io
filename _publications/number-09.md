@@ -1,7 +1,7 @@
 ---
-title: "LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization"
+title: "MULM: Multilingual LoRA Backdoor Defense via Multi-View Drift Mining"
 permalink: "/publications/number-09"
 year: "2026"
-citation: "Hongyan Wu, Zhiliang Tian*, Zhen Huang, <b>Nankai Lin</b>, Yiping Song, Zhihua Wen, Menglong Lu, Feng Liu, Dongsheng Li. LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization. IEEE Transactions on Audio, Speech and Language Processing. 2026. <b>(中科院SCI 2区, CCF B)</b>"
+citation: "Lianxi Wang, Yuying Li, Chao Liang, Jiahuan Yang, Xinfeng Liao, <b>Nankai Lin</b>. MULM: Multilingual LoRA Backdoor Defense via Multi-View Drift Mining. IEEE International Conference on Data Mining. 2026. <b>(CCF B类会议, 通讯作者)</b>"
 ---
 

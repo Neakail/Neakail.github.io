@@ -1,7 +1,7 @@
 ---
-title: "IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation"
+title: "LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization"
 permalink: "/publications/number-12"
 year: "2026"
-citation: "<b>Nankai Lin</b>, Bowen Ruan, Haoyuan Bu, Shengyi Jiang, Xinmeng Zhang, Lianxi Wang. IN-LAND: Improving Large Language Models’ Performance on Abbreviation Disambiguation. Intelligent Data Analysis. 2026. <b>(中科院SCI 4区, CCF C类期刊)</b>"
+citation: "Hongyan Wu, Zhiliang Tian, Zhen Huang, <b>Nankai Lin</b>, Yiping Song, Zhihua Wen, Menglong Lu, Feng Liu, Dongsheng Li. LLM-Driven MCTS for Conditional Story Generation via Logic-Guided Evidence Tree Optimization. IEEE Transactions on Audio, Speech and Language Processing. 2026. <b>(中科院SCI 2区, CCF B)</b>"
 ---
 
